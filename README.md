@@ -1,1 +1,1 @@
-# linguastars1
+LinguaStars v1
