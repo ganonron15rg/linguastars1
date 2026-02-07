@@ -1,0 +1,49 @@
+name: CI
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+
+jobs:
+  server:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install server dependencies
+        run: pip install -r server/requirements.txt
+      - name: Ruff lint
+        run: ruff check server
+      - name: Pytest
+        run: pytest server
+
+  dashboards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: |
+            dashboards/parent-web/package-lock.json
+            dashboards/admin-web/package-lock.json
+      - name: Install parent dashboard dependencies
+        working-directory: dashboards/parent-web
+        run: npm ci
+      - name: Build parent dashboard
+        working-directory: dashboards/parent-web
+        run: npm run build
+      - name: Install admin dashboard dependencies
+        working-directory: dashboards/admin-web
+        run: npm ci
+      - name: Build admin dashboard
+        working-directory: dashboards/admin-web
+        run: npm run build
