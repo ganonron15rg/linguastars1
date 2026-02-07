@@ -1,0 +1,3855 @@
+{
+  "version": "v1",
+  "words": [
+    {
+      "id": "word-001",
+      "en": "cat",
+      "he": "קאט",
+      "audio": "audio/words/word-001.mp3",
+      "image": "images/words/word-001.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-002",
+      "en": "dog",
+      "he": "דוג",
+      "audio": "audio/words/word-002.mp3",
+      "image": "images/words/word-002.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-003",
+      "en": "bird",
+      "he": "בירד",
+      "audio": "audio/words/word-003.mp3",
+      "image": "images/words/word-003.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-004",
+      "en": "fish",
+      "he": "פיסה",
+      "audio": "audio/words/word-004.mp3",
+      "image": "images/words/word-004.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-005",
+      "en": "horse",
+      "he": "הורסה",
+      "audio": "audio/words/word-005.mp3",
+      "image": "images/words/word-005.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-006",
+      "en": "cow",
+      "he": "קוו",
+      "audio": "audio/words/word-006.mp3",
+      "image": "images/words/word-006.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-007",
+      "en": "sheep",
+      "he": "סהההפ",
+      "audio": "audio/words/word-007.mp3",
+      "image": "images/words/word-007.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-008",
+      "en": "goat",
+      "he": "גואט",
+      "audio": "audio/words/word-008.mp3",
+      "image": "images/words/word-008.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-009",
+      "en": "pig",
+      "he": "פיג",
+      "audio": "audio/words/word-009.mp3",
+      "image": "images/words/word-009.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-010",
+      "en": "rabbit",
+      "he": "ראבביט",
+      "audio": "audio/words/word-010.mp3",
+      "image": "images/words/word-010.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-011",
+      "en": "mouse",
+      "he": "מווסה",
+      "audio": "audio/words/word-011.mp3",
+      "image": "images/words/word-011.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-012",
+      "en": "lion",
+      "he": "ליונ",
+      "audio": "audio/words/word-012.mp3",
+      "image": "images/words/word-012.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-013",
+      "en": "tiger",
+      "he": "טיגהר",
+      "audio": "audio/words/word-013.mp3",
+      "image": "images/words/word-013.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-014",
+      "en": "bear",
+      "he": "בהאר",
+      "audio": "audio/words/word-014.mp3",
+      "image": "images/words/word-014.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-015",
+      "en": "fox",
+      "he": "פוקס",
+      "audio": "audio/words/word-015.mp3",
+      "image": "images/words/word-015.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-016",
+      "en": "wolf",
+      "he": "וולפ",
+      "audio": "audio/words/word-016.mp3",
+      "image": "images/words/word-016.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-017",
+      "en": "deer",
+      "he": "דההר",
+      "audio": "audio/words/word-017.mp3",
+      "image": "images/words/word-017.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-018",
+      "en": "giraffe",
+      "he": "גיראפפה",
+      "audio": "audio/words/word-018.mp3",
+      "image": "images/words/word-018.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-019",
+      "en": "zebra",
+      "he": "זהברא",
+      "audio": "audio/words/word-019.mp3",
+      "image": "images/words/word-019.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-020",
+      "en": "elephant",
+      "he": "הלהפהאנט",
+      "audio": "audio/words/word-020.mp3",
+      "image": "images/words/word-020.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-021",
+      "en": "monkey",
+      "he": "מונקהי",
+      "audio": "audio/words/word-021.mp3",
+      "image": "images/words/word-021.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-022",
+      "en": "panda",
+      "he": "פאנדא",
+      "audio": "audio/words/word-022.mp3",
+      "image": "images/words/word-022.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-023",
+      "en": "dolphin",
+      "he": "דולפהינ",
+      "audio": "audio/words/word-023.mp3",
+      "image": "images/words/word-023.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-024",
+      "en": "whale",
+      "he": "והאלה",
+      "audio": "audio/words/word-024.mp3",
+      "image": "images/words/word-024.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-025",
+      "en": "shark",
+      "he": "סהארק",
+      "audio": "audio/words/word-025.mp3",
+      "image": "images/words/word-025.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-026",
+      "en": "turtle",
+      "he": "טורטלה",
+      "audio": "audio/words/word-026.mp3",
+      "image": "images/words/word-026.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-027",
+      "en": "frog",
+      "he": "פרוג",
+      "audio": "audio/words/word-027.mp3",
+      "image": "images/words/word-027.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-028",
+      "en": "duck",
+      "he": "דוקק",
+      "audio": "audio/words/word-028.mp3",
+      "image": "images/words/word-028.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-029",
+      "en": "chicken",
+      "he": "קהיקקהנ",
+      "audio": "audio/words/word-029.mp3",
+      "image": "images/words/word-029.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-030",
+      "en": "owl",
+      "he": "וול",
+      "audio": "audio/words/word-030.mp3",
+      "image": "images/words/word-030.png",
+      "tags": [
+        "core",
+        "animals"
+      ]
+    },
+    {
+      "id": "word-031",
+      "en": "apple",
+      "he": "אפפלה",
+      "audio": "audio/words/word-031.mp3",
+      "image": "images/words/word-031.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-032",
+      "en": "banana",
+      "he": "באנאנא",
+      "audio": "audio/words/word-032.mp3",
+      "image": "images/words/word-032.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-033",
+      "en": "orange",
+      "he": "וראנגה",
+      "audio": "audio/words/word-033.mp3",
+      "image": "images/words/word-033.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-034",
+      "en": "grape",
+      "he": "גראפה",
+      "audio": "audio/words/word-034.mp3",
+      "image": "images/words/word-034.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-035",
+      "en": "pear",
+      "he": "פהאר",
+      "audio": "audio/words/word-035.mp3",
+      "image": "images/words/word-035.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-036",
+      "en": "peach",
+      "he": "פהאקה",
+      "audio": "audio/words/word-036.mp3",
+      "image": "images/words/word-036.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-037",
+      "en": "strawberry",
+      "he": "סטראובהררי",
+      "audio": "audio/words/word-037.mp3",
+      "image": "images/words/word-037.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-038",
+      "en": "blueberry",
+      "he": "בלוהבהררי",
+      "audio": "audio/words/word-038.mp3",
+      "image": "images/words/word-038.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-039",
+      "en": "lemon",
+      "he": "להמונ",
+      "audio": "audio/words/word-039.mp3",
+      "image": "images/words/word-039.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-040",
+      "en": "watermelon",
+      "he": "ואטהרמהלונ",
+      "audio": "audio/words/word-040.mp3",
+      "image": "images/words/word-040.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-041",
+      "en": "bread",
+      "he": "ברהאד",
+      "audio": "audio/words/word-041.mp3",
+      "image": "images/words/word-041.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-042",
+      "en": "rice",
+      "he": "ריקה",
+      "audio": "audio/words/word-042.mp3",
+      "image": "images/words/word-042.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-043",
+      "en": "pasta",
+      "he": "פאסטא",
+      "audio": "audio/words/word-043.mp3",
+      "image": "images/words/word-043.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-044",
+      "en": "soup",
+      "he": "סוופ",
+      "audio": "audio/words/word-044.mp3",
+      "image": "images/words/word-044.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-045",
+      "en": "salad",
+      "he": "סאלאד",
+      "audio": "audio/words/word-045.mp3",
+      "image": "images/words/word-045.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-046",
+      "en": "cheese",
+      "he": "קהההסה",
+      "audio": "audio/words/word-046.mp3",
+      "image": "images/words/word-046.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-047",
+      "en": "milk",
+      "he": "מילק",
+      "audio": "audio/words/word-047.mp3",
+      "image": "images/words/word-047.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-048",
+      "en": "yogurt",
+      "he": "יוגורט",
+      "audio": "audio/words/word-048.mp3",
+      "image": "images/words/word-048.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-049",
+      "en": "egg",
+      "he": "הגג",
+      "audio": "audio/words/word-049.mp3",
+      "image": "images/words/word-049.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-050",
+      "en": "butter",
+      "he": "בוטטהר",
+      "audio": "audio/words/word-050.mp3",
+      "image": "images/words/word-050.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-051",
+      "en": "honey",
+      "he": "הונהי",
+      "audio": "audio/words/word-051.mp3",
+      "image": "images/words/word-051.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-052",
+      "en": "sugar",
+      "he": "סוגאר",
+      "audio": "audio/words/word-052.mp3",
+      "image": "images/words/word-052.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-053",
+      "en": "salt",
+      "he": "סאלט",
+      "audio": "audio/words/word-053.mp3",
+      "image": "images/words/word-053.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-054",
+      "en": "pepper",
+      "he": "פהפפהר",
+      "audio": "audio/words/word-054.mp3",
+      "image": "images/words/word-054.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-055",
+      "en": "cookie",
+      "he": "קווקיה",
+      "audio": "audio/words/word-055.mp3",
+      "image": "images/words/word-055.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-056",
+      "en": "cake",
+      "he": "קאקה",
+      "audio": "audio/words/word-056.mp3",
+      "image": "images/words/word-056.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-057",
+      "en": "pizza",
+      "he": "פיזזא",
+      "audio": "audio/words/word-057.mp3",
+      "image": "images/words/word-057.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-058",
+      "en": "sandwich",
+      "he": "סאנדויקה",
+      "audio": "audio/words/word-058.mp3",
+      "image": "images/words/word-058.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-059",
+      "en": "carrot",
+      "he": "קאררוט",
+      "audio": "audio/words/word-059.mp3",
+      "image": "images/words/word-059.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-060",
+      "en": "potato",
+      "he": "פוטאטו",
+      "audio": "audio/words/word-060.mp3",
+      "image": "images/words/word-060.png",
+      "tags": [
+        "core",
+        "food"
+      ]
+    },
+    {
+      "id": "word-061",
+      "en": "red",
+      "he": "רהד",
+      "audio": "audio/words/word-061.mp3",
+      "image": "images/words/word-061.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-062",
+      "en": "blue",
+      "he": "בלוה",
+      "audio": "audio/words/word-062.mp3",
+      "image": "images/words/word-062.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-063",
+      "en": "green",
+      "he": "גרההנ",
+      "audio": "audio/words/word-063.mp3",
+      "image": "images/words/word-063.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-064",
+      "en": "yellow",
+      "he": "יהללוו",
+      "audio": "audio/words/word-064.mp3",
+      "image": "images/words/word-064.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-065",
+      "en": "orange",
+      "he": "וראנגה",
+      "audio": "audio/words/word-065.mp3",
+      "image": "images/words/word-065.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-066",
+      "en": "purple",
+      "he": "פורפלה",
+      "audio": "audio/words/word-066.mp3",
+      "image": "images/words/word-066.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-067",
+      "en": "pink",
+      "he": "פינק",
+      "audio": "audio/words/word-067.mp3",
+      "image": "images/words/word-067.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-068",
+      "en": "brown",
+      "he": "ברוונ",
+      "audio": "audio/words/word-068.mp3",
+      "image": "images/words/word-068.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-069",
+      "en": "black",
+      "he": "בלאקק",
+      "audio": "audio/words/word-069.mp3",
+      "image": "images/words/word-069.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-070",
+      "en": "white",
+      "he": "והיטה",
+      "audio": "audio/words/word-070.mp3",
+      "image": "images/words/word-070.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-071",
+      "en": "gray",
+      "he": "גראי",
+      "audio": "audio/words/word-071.mp3",
+      "image": "images/words/word-071.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-072",
+      "en": "gold",
+      "he": "גולד",
+      "audio": "audio/words/word-072.mp3",
+      "image": "images/words/word-072.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-073",
+      "en": "silver",
+      "he": "סילבהר",
+      "audio": "audio/words/word-073.mp3",
+      "image": "images/words/word-073.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-074",
+      "en": "teal",
+      "he": "טהאל",
+      "audio": "audio/words/word-074.mp3",
+      "image": "images/words/word-074.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-075",
+      "en": "navy",
+      "he": "נאבי",
+      "audio": "audio/words/word-075.mp3",
+      "image": "images/words/word-075.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-076",
+      "en": "violet",
+      "he": "ביולהט",
+      "audio": "audio/words/word-076.mp3",
+      "image": "images/words/word-076.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-077",
+      "en": "coral",
+      "he": "קוראל",
+      "audio": "audio/words/word-077.mp3",
+      "image": "images/words/word-077.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-078",
+      "en": "lime",
+      "he": "לימה",
+      "audio": "audio/words/word-078.mp3",
+      "image": "images/words/word-078.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-079",
+      "en": "peach",
+      "he": "פהאקה",
+      "audio": "audio/words/word-079.mp3",
+      "image": "images/words/word-079.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-080",
+      "en": "beige",
+      "he": "בהיגה",
+      "audio": "audio/words/word-080.mp3",
+      "image": "images/words/word-080.png",
+      "tags": [
+        "core",
+        "colors"
+      ]
+    },
+    {
+      "id": "word-081",
+      "en": "one",
+      "he": "ונה",
+      "audio": "audio/words/word-081.mp3",
+      "image": "images/words/word-081.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-082",
+      "en": "two",
+      "he": "טוו",
+      "audio": "audio/words/word-082.mp3",
+      "image": "images/words/word-082.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-083",
+      "en": "three",
+      "he": "טהרהה",
+      "audio": "audio/words/word-083.mp3",
+      "image": "images/words/word-083.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-084",
+      "en": "four",
+      "he": "פוור",
+      "audio": "audio/words/word-084.mp3",
+      "image": "images/words/word-084.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-085",
+      "en": "five",
+      "he": "פיבה",
+      "audio": "audio/words/word-085.mp3",
+      "image": "images/words/word-085.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-086",
+      "en": "six",
+      "he": "סיקס",
+      "audio": "audio/words/word-086.mp3",
+      "image": "images/words/word-086.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-087",
+      "en": "seven",
+      "he": "סהבהנ",
+      "audio": "audio/words/word-087.mp3",
+      "image": "images/words/word-087.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-088",
+      "en": "eight",
+      "he": "היגהט",
+      "audio": "audio/words/word-088.mp3",
+      "image": "images/words/word-088.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-089",
+      "en": "nine",
+      "he": "נינה",
+      "audio": "audio/words/word-089.mp3",
+      "image": "images/words/word-089.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-090",
+      "en": "ten",
+      "he": "טהנ",
+      "audio": "audio/words/word-090.mp3",
+      "image": "images/words/word-090.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-091",
+      "en": "eleven",
+      "he": "הלהבהנ",
+      "audio": "audio/words/word-091.mp3",
+      "image": "images/words/word-091.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-092",
+      "en": "twelve",
+      "he": "טוהלבה",
+      "audio": "audio/words/word-092.mp3",
+      "image": "images/words/word-092.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-093",
+      "en": "first",
+      "he": "פירסט",
+      "audio": "audio/words/word-093.mp3",
+      "image": "images/words/word-093.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-094",
+      "en": "second",
+      "he": "סהקונד",
+      "audio": "audio/words/word-094.mp3",
+      "image": "images/words/word-094.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-095",
+      "en": "third",
+      "he": "טהירד",
+      "audio": "audio/words/word-095.mp3",
+      "image": "images/words/word-095.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-096",
+      "en": "fourth",
+      "he": "פוורטה",
+      "audio": "audio/words/word-096.mp3",
+      "image": "images/words/word-096.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-097",
+      "en": "fifth",
+      "he": "פיפטה",
+      "audio": "audio/words/word-097.mp3",
+      "image": "images/words/word-097.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-098",
+      "en": "sixth",
+      "he": "סיקסטה",
+      "audio": "audio/words/word-098.mp3",
+      "image": "images/words/word-098.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-099",
+      "en": "seventh",
+      "he": "סהבהנטה",
+      "audio": "audio/words/word-099.mp3",
+      "image": "images/words/word-099.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-100",
+      "en": "eighth",
+      "he": "היגהטה",
+      "audio": "audio/words/word-100.mp3",
+      "image": "images/words/word-100.png",
+      "tags": [
+        "core",
+        "numbers"
+      ]
+    },
+    {
+      "id": "word-101",
+      "en": "circle",
+      "he": "קירקלה",
+      "audio": "audio/words/word-101.mp3",
+      "image": "images/words/word-101.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-102",
+      "en": "square",
+      "he": "סקוארה",
+      "audio": "audio/words/word-102.mp3",
+      "image": "images/words/word-102.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-103",
+      "en": "triangle",
+      "he": "טריאנגלה",
+      "audio": "audio/words/word-103.mp3",
+      "image": "images/words/word-103.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-104",
+      "en": "rectangle",
+      "he": "רהקטאנגלה",
+      "audio": "audio/words/word-104.mp3",
+      "image": "images/words/word-104.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-105",
+      "en": "oval",
+      "he": "ובאל",
+      "audio": "audio/words/word-105.mp3",
+      "image": "images/words/word-105.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-106",
+      "en": "star",
+      "he": "סטאר",
+      "audio": "audio/words/word-106.mp3",
+      "image": "images/words/word-106.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-107",
+      "en": "heart",
+      "he": "ההארט",
+      "audio": "audio/words/word-107.mp3",
+      "image": "images/words/word-107.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-108",
+      "en": "diamond",
+      "he": "דיאמונד",
+      "audio": "audio/words/word-108.mp3",
+      "image": "images/words/word-108.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-109",
+      "en": "cube",
+      "he": "קובה",
+      "audio": "audio/words/word-109.mp3",
+      "image": "images/words/word-109.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-110",
+      "en": "cone",
+      "he": "קונה",
+      "audio": "audio/words/word-110.mp3",
+      "image": "images/words/word-110.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-111",
+      "en": "sphere",
+      "he": "ספההרה",
+      "audio": "audio/words/word-111.mp3",
+      "image": "images/words/word-111.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-112",
+      "en": "cylinder",
+      "he": "קילינדהר",
+      "audio": "audio/words/word-112.mp3",
+      "image": "images/words/word-112.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-113",
+      "en": "line",
+      "he": "לינה",
+      "audio": "audio/words/word-113.mp3",
+      "image": "images/words/word-113.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-114",
+      "en": "dot",
+      "he": "דוט",
+      "audio": "audio/words/word-114.mp3",
+      "image": "images/words/word-114.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-115",
+      "en": "spiral",
+      "he": "ספיראל",
+      "audio": "audio/words/word-115.mp3",
+      "image": "images/words/word-115.png",
+      "tags": [
+        "core",
+        "shapes"
+      ]
+    },
+    {
+      "id": "word-116",
+      "en": "book",
+      "he": "בווק",
+      "audio": "audio/words/word-116.mp3",
+      "image": "images/words/word-116.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-117",
+      "en": "pen",
+      "he": "פהנ",
+      "audio": "audio/words/word-117.mp3",
+      "image": "images/words/word-117.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-118",
+      "en": "pencil",
+      "he": "פהנקיל",
+      "audio": "audio/words/word-118.mp3",
+      "image": "images/words/word-118.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-119",
+      "en": "eraser",
+      "he": "הראסהר",
+      "audio": "audio/words/word-119.mp3",
+      "image": "images/words/word-119.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-120",
+      "en": "ruler",
+      "he": "רולהר",
+      "audio": "audio/words/word-120.mp3",
+      "image": "images/words/word-120.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-121",
+      "en": "desk",
+      "he": "דהסק",
+      "audio": "audio/words/word-121.mp3",
+      "image": "images/words/word-121.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-122",
+      "en": "chair",
+      "he": "קהאיר",
+      "audio": "audio/words/word-122.mp3",
+      "image": "images/words/word-122.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-123",
+      "en": "backpack",
+      "he": "באקקפאקק",
+      "audio": "audio/words/word-123.mp3",
+      "image": "images/words/word-123.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-124",
+      "en": "notebook",
+      "he": "נוטהבווק",
+      "audio": "audio/words/word-124.mp3",
+      "image": "images/words/word-124.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-125",
+      "en": "paper",
+      "he": "פאפהר",
+      "audio": "audio/words/word-125.mp3",
+      "image": "images/words/word-125.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-126",
+      "en": "lesson",
+      "he": "להססונ",
+      "audio": "audio/words/word-126.mp3",
+      "image": "images/words/word-126.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-127",
+      "en": "teacher",
+      "he": "טהאקההר",
+      "audio": "audio/words/word-127.mp3",
+      "image": "images/words/word-127.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-128",
+      "en": "student",
+      "he": "סטודהנט",
+      "audio": "audio/words/word-128.mp3",
+      "image": "images/words/word-128.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-129",
+      "en": "class",
+      "he": "קלאסס",
+      "audio": "audio/words/word-129.mp3",
+      "image": "images/words/word-129.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-130",
+      "en": "homework",
+      "he": "הומהוורק",
+      "audio": "audio/words/word-130.mp3",
+      "image": "images/words/word-130.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-131",
+      "en": "quiz",
+      "he": "קויז",
+      "audio": "audio/words/word-131.mp3",
+      "image": "images/words/word-131.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-132",
+      "en": "test",
+      "he": "טהסט",
+      "audio": "audio/words/word-132.mp3",
+      "image": "images/words/word-132.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-133",
+      "en": "library",
+      "he": "ליברארי",
+      "audio": "audio/words/word-133.mp3",
+      "image": "images/words/word-133.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-134",
+      "en": "recess",
+      "he": "רהקהסס",
+      "audio": "audio/words/word-134.mp3",
+      "image": "images/words/word-134.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-135",
+      "en": "lunch",
+      "he": "לונקה",
+      "audio": "audio/words/word-135.mp3",
+      "image": "images/words/word-135.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-136",
+      "en": "bell",
+      "he": "בהלל",
+      "audio": "audio/words/word-136.mp3",
+      "image": "images/words/word-136.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-137",
+      "en": "board",
+      "he": "בוארד",
+      "audio": "audio/words/word-137.mp3",
+      "image": "images/words/word-137.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-138",
+      "en": "marker",
+      "he": "מארקהר",
+      "audio": "audio/words/word-138.mp3",
+      "image": "images/words/word-138.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-139",
+      "en": "glue",
+      "he": "גלוה",
+      "audio": "audio/words/word-139.mp3",
+      "image": "images/words/word-139.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-140",
+      "en": "scissors",
+      "he": "סקיססורס",
+      "audio": "audio/words/word-140.mp3",
+      "image": "images/words/word-140.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-141",
+      "en": "folder",
+      "he": "פולדהר",
+      "audio": "audio/words/word-141.mp3",
+      "image": "images/words/word-141.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-142",
+      "en": "calendar",
+      "he": "קאלהנדאר",
+      "audio": "audio/words/word-142.mp3",
+      "image": "images/words/word-142.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-143",
+      "en": "map",
+      "he": "מאפ",
+      "audio": "audio/words/word-143.mp3",
+      "image": "images/words/word-143.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-144",
+      "en": "poster",
+      "he": "פוסטהר",
+      "audio": "audio/words/word-144.mp3",
+      "image": "images/words/word-144.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-145",
+      "en": "computer",
+      "he": "קומפוטהר",
+      "audio": "audio/words/word-145.mp3",
+      "image": "images/words/word-145.png",
+      "tags": [
+        "core",
+        "school"
+      ]
+    },
+    {
+      "id": "word-146",
+      "en": "house",
+      "he": "הווסה",
+      "audio": "audio/words/word-146.mp3",
+      "image": "images/words/word-146.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-147",
+      "en": "room",
+      "he": "רוומ",
+      "audio": "audio/words/word-147.mp3",
+      "image": "images/words/word-147.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-148",
+      "en": "kitchen",
+      "he": "קיטקההנ",
+      "audio": "audio/words/word-148.mp3",
+      "image": "images/words/word-148.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-149",
+      "en": "bedroom",
+      "he": "בהדרוומ",
+      "audio": "audio/words/word-149.mp3",
+      "image": "images/words/word-149.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-150",
+      "en": "bathroom",
+      "he": "באטהרוומ",
+      "audio": "audio/words/word-150.mp3",
+      "image": "images/words/word-150.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-151",
+      "en": "livingroom",
+      "he": "ליבינגרוומ",
+      "audio": "audio/words/word-151.mp3",
+      "image": "images/words/word-151.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-152",
+      "en": "door",
+      "he": "דוור",
+      "audio": "audio/words/word-152.mp3",
+      "image": "images/words/word-152.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-153",
+      "en": "window",
+      "he": "וינדוו",
+      "audio": "audio/words/word-153.mp3",
+      "image": "images/words/word-153.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-154",
+      "en": "floor",
+      "he": "פלוור",
+      "audio": "audio/words/word-154.mp3",
+      "image": "images/words/word-154.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-155",
+      "en": "wall",
+      "he": "ואלל",
+      "audio": "audio/words/word-155.mp3",
+      "image": "images/words/word-155.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-156",
+      "en": "roof",
+      "he": "רוופ",
+      "audio": "audio/words/word-156.mp3",
+      "image": "images/words/word-156.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-157",
+      "en": "bed",
+      "he": "בהד",
+      "audio": "audio/words/word-157.mp3",
+      "image": "images/words/word-157.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-158",
+      "en": "pillow",
+      "he": "פיללוו",
+      "audio": "audio/words/word-158.mp3",
+      "image": "images/words/word-158.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-159",
+      "en": "blanket",
+      "he": "בלאנקהט",
+      "audio": "audio/words/word-159.mp3",
+      "image": "images/words/word-159.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-160",
+      "en": "lamp",
+      "he": "לאמפ",
+      "audio": "audio/words/word-160.mp3",
+      "image": "images/words/word-160.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-161",
+      "en": "table",
+      "he": "טאבלה",
+      "audio": "audio/words/word-161.mp3",
+      "image": "images/words/word-161.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-162",
+      "en": "sofa",
+      "he": "סופא",
+      "audio": "audio/words/word-162.mp3",
+      "image": "images/words/word-162.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-163",
+      "en": "shelf",
+      "he": "סההלפ",
+      "audio": "audio/words/word-163.mp3",
+      "image": "images/words/word-163.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-164",
+      "en": "clock",
+      "he": "קלוקק",
+      "audio": "audio/words/word-164.mp3",
+      "image": "images/words/word-164.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-165",
+      "en": "mirror",
+      "he": "מיררור",
+      "audio": "audio/words/word-165.mp3",
+      "image": "images/words/word-165.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-166",
+      "en": "rug",
+      "he": "רוג",
+      "audio": "audio/words/word-166.mp3",
+      "image": "images/words/word-166.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-167",
+      "en": "sink",
+      "he": "סינק",
+      "audio": "audio/words/word-167.mp3",
+      "image": "images/words/word-167.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-168",
+      "en": "stove",
+      "he": "סטובה",
+      "audio": "audio/words/word-168.mp3",
+      "image": "images/words/word-168.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-169",
+      "en": "fridge",
+      "he": "פרידגה",
+      "audio": "audio/words/word-169.mp3",
+      "image": "images/words/word-169.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-170",
+      "en": "garden",
+      "he": "גארדהנ",
+      "audio": "audio/words/word-170.mp3",
+      "image": "images/words/word-170.png",
+      "tags": [
+        "core",
+        "home"
+      ]
+    },
+    {
+      "id": "word-171",
+      "en": "sun",
+      "he": "סונ",
+      "audio": "audio/words/word-171.mp3",
+      "image": "images/words/word-171.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-172",
+      "en": "moon",
+      "he": "מוונ",
+      "audio": "audio/words/word-172.mp3",
+      "image": "images/words/word-172.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-173",
+      "en": "starry",
+      "he": "סטאררי",
+      "audio": "audio/words/word-173.mp3",
+      "image": "images/words/word-173.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-174",
+      "en": "cloud",
+      "he": "קלווד",
+      "audio": "audio/words/word-174.mp3",
+      "image": "images/words/word-174.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-175",
+      "en": "rain",
+      "he": "ראינ",
+      "audio": "audio/words/word-175.mp3",
+      "image": "images/words/word-175.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-176",
+      "en": "snow",
+      "he": "סנוו",
+      "audio": "audio/words/word-176.mp3",
+      "image": "images/words/word-176.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-177",
+      "en": "wind",
+      "he": "וינד",
+      "audio": "audio/words/word-177.mp3",
+      "image": "images/words/word-177.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-178",
+      "en": "storm",
+      "he": "סטורמ",
+      "audio": "audio/words/word-178.mp3",
+      "image": "images/words/word-178.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-179",
+      "en": "rainbow",
+      "he": "ראינבוו",
+      "audio": "audio/words/word-179.mp3",
+      "image": "images/words/word-179.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-180",
+      "en": "river",
+      "he": "ריבהר",
+      "audio": "audio/words/word-180.mp3",
+      "image": "images/words/word-180.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-181",
+      "en": "lake",
+      "he": "לאקה",
+      "audio": "audio/words/word-181.mp3",
+      "image": "images/words/word-181.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-182",
+      "en": "ocean",
+      "he": "וקהאנ",
+      "audio": "audio/words/word-182.mp3",
+      "image": "images/words/word-182.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-183",
+      "en": "mountain",
+      "he": "מוונטאינ",
+      "audio": "audio/words/word-183.mp3",
+      "image": "images/words/word-183.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-184",
+      "en": "hill",
+      "he": "הילל",
+      "audio": "audio/words/word-184.mp3",
+      "image": "images/words/word-184.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-185",
+      "en": "forest",
+      "he": "פורהסט",
+      "audio": "audio/words/word-185.mp3",
+      "image": "images/words/word-185.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-186",
+      "en": "tree",
+      "he": "טרהה",
+      "audio": "audio/words/word-186.mp3",
+      "image": "images/words/word-186.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-187",
+      "en": "flower",
+      "he": "פלווהר",
+      "audio": "audio/words/word-187.mp3",
+      "image": "images/words/word-187.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-188",
+      "en": "grass",
+      "he": "גראסס",
+      "audio": "audio/words/word-188.mp3",
+      "image": "images/words/word-188.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-189",
+      "en": "leaf",
+      "he": "להאפ",
+      "audio": "audio/words/word-189.mp3",
+      "image": "images/words/word-189.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-190",
+      "en": "rock",
+      "he": "רוקק",
+      "audio": "audio/words/word-190.mp3",
+      "image": "images/words/word-190.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-191",
+      "en": "sand",
+      "he": "סאנד",
+      "audio": "audio/words/word-191.mp3",
+      "image": "images/words/word-191.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-192",
+      "en": "beach",
+      "he": "בהאקה",
+      "audio": "audio/words/word-192.mp3",
+      "image": "images/words/word-192.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-193",
+      "en": "field",
+      "he": "פיהלד",
+      "audio": "audio/words/word-193.mp3",
+      "image": "images/words/word-193.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-194",
+      "en": "sky",
+      "he": "סקי",
+      "audio": "audio/words/word-194.mp3",
+      "image": "images/words/word-194.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-195",
+      "en": "earth",
+      "he": "הארטה",
+      "audio": "audio/words/word-195.mp3",
+      "image": "images/words/word-195.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-196",
+      "en": "fire",
+      "he": "פירה",
+      "audio": "audio/words/word-196.mp3",
+      "image": "images/words/word-196.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-197",
+      "en": "ice",
+      "he": "יקה",
+      "audio": "audio/words/word-197.mp3",
+      "image": "images/words/word-197.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-198",
+      "en": "fog",
+      "he": "פוג",
+      "audio": "audio/words/word-198.mp3",
+      "image": "images/words/word-198.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-199",
+      "en": "thunder",
+      "he": "טהונדהר",
+      "audio": "audio/words/word-199.mp3",
+      "image": "images/words/word-199.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-200",
+      "en": "lightning",
+      "he": "ליגהטנינג",
+      "audio": "audio/words/word-200.mp3",
+      "image": "images/words/word-200.png",
+      "tags": [
+        "core",
+        "nature"
+      ]
+    },
+    {
+      "id": "word-201",
+      "en": "run",
+      "he": "רונ",
+      "audio": "audio/words/word-201.mp3",
+      "image": "images/words/word-201.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-202",
+      "en": "walk",
+      "he": "ואלק",
+      "audio": "audio/words/word-202.mp3",
+      "image": "images/words/word-202.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-203",
+      "en": "jump",
+      "he": "גומפ",
+      "audio": "audio/words/word-203.mp3",
+      "image": "images/words/word-203.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-204",
+      "en": "skip",
+      "he": "סקיפ",
+      "audio": "audio/words/word-204.mp3",
+      "image": "images/words/word-204.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-205",
+      "en": "swim",
+      "he": "סוימ",
+      "audio": "audio/words/word-205.mp3",
+      "image": "images/words/word-205.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-206",
+      "en": "fly",
+      "he": "פלי",
+      "audio": "audio/words/word-206.mp3",
+      "image": "images/words/word-206.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-207",
+      "en": "read",
+      "he": "רהאד",
+      "audio": "audio/words/word-207.mp3",
+      "image": "images/words/word-207.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-208",
+      "en": "write",
+      "he": "וריטה",
+      "audio": "audio/words/word-208.mp3",
+      "image": "images/words/word-208.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-209",
+      "en": "draw",
+      "he": "דראו",
+      "audio": "audio/words/word-209.mp3",
+      "image": "images/words/word-209.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-210",
+      "en": "sing",
+      "he": "סינג",
+      "audio": "audio/words/word-210.mp3",
+      "image": "images/words/word-210.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-211",
+      "en": "dance",
+      "he": "דאנקה",
+      "audio": "audio/words/word-211.mp3",
+      "image": "images/words/word-211.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-212",
+      "en": "play",
+      "he": "פלאי",
+      "audio": "audio/words/word-212.mp3",
+      "image": "images/words/word-212.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-213",
+      "en": "laugh",
+      "he": "לאוגה",
+      "audio": "audio/words/word-213.mp3",
+      "image": "images/words/word-213.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-214",
+      "en": "smile",
+      "he": "סמילה",
+      "audio": "audio/words/word-214.mp3",
+      "image": "images/words/word-214.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-215",
+      "en": "cry",
+      "he": "קרי",
+      "audio": "audio/words/word-215.mp3",
+      "image": "images/words/word-215.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-216",
+      "en": "think",
+      "he": "טהינק",
+      "audio": "audio/words/word-216.mp3",
+      "image": "images/words/word-216.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-217",
+      "en": "speak",
+      "he": "ספהאק",
+      "audio": "audio/words/word-217.mp3",
+      "image": "images/words/word-217.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-218",
+      "en": "listen",
+      "he": "ליסטהנ",
+      "audio": "audio/words/word-218.mp3",
+      "image": "images/words/word-218.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-219",
+      "en": "learn",
+      "he": "להארנ",
+      "audio": "audio/words/word-219.mp3",
+      "image": "images/words/word-219.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-220",
+      "en": "teach",
+      "he": "טהאקה",
+      "audio": "audio/words/word-220.mp3",
+      "image": "images/words/word-220.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-221",
+      "en": "build",
+      "he": "בוילד",
+      "audio": "audio/words/word-221.mp3",
+      "image": "images/words/word-221.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-222",
+      "en": "open",
+      "he": "ופהנ",
+      "audio": "audio/words/word-222.mp3",
+      "image": "images/words/word-222.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-223",
+      "en": "close",
+      "he": "קלוסה",
+      "audio": "audio/words/word-223.mp3",
+      "image": "images/words/word-223.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-224",
+      "en": "push",
+      "he": "פוסה",
+      "audio": "audio/words/word-224.mp3",
+      "image": "images/words/word-224.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-225",
+      "en": "pull",
+      "he": "פולל",
+      "audio": "audio/words/word-225.mp3",
+      "image": "images/words/word-225.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-226",
+      "en": "carry",
+      "he": "קאררי",
+      "audio": "audio/words/word-226.mp3",
+      "image": "images/words/word-226.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-227",
+      "en": "throw",
+      "he": "טהרוו",
+      "audio": "audio/words/word-227.mp3",
+      "image": "images/words/word-227.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-228",
+      "en": "catch",
+      "he": "קאטקה",
+      "audio": "audio/words/word-228.mp3",
+      "image": "images/words/word-228.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-229",
+      "en": "kick",
+      "he": "קיקק",
+      "audio": "audio/words/word-229.mp3",
+      "image": "images/words/word-229.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-230",
+      "en": "clap",
+      "he": "קלאפ",
+      "audio": "audio/words/word-230.mp3",
+      "image": "images/words/word-230.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-231",
+      "en": "wave",
+      "he": "ואבה",
+      "audio": "audio/words/word-231.mp3",
+      "image": "images/words/word-231.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-232",
+      "en": "sit",
+      "he": "סיט",
+      "audio": "audio/words/word-232.mp3",
+      "image": "images/words/word-232.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-233",
+      "en": "stand",
+      "he": "סטאנד",
+      "audio": "audio/words/word-233.mp3",
+      "image": "images/words/word-233.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-234",
+      "en": "sleep",
+      "he": "סלההפ",
+      "audio": "audio/words/word-234.mp3",
+      "image": "images/words/word-234.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-235",
+      "en": "eat",
+      "he": "האט",
+      "audio": "audio/words/word-235.mp3",
+      "image": "images/words/word-235.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-236",
+      "en": "drink",
+      "he": "דרינק",
+      "audio": "audio/words/word-236.mp3",
+      "image": "images/words/word-236.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-237",
+      "en": "cook",
+      "he": "קווק",
+      "audio": "audio/words/word-237.mp3",
+      "image": "images/words/word-237.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-238",
+      "en": "clean",
+      "he": "קלהאנ",
+      "audio": "audio/words/word-238.mp3",
+      "image": "images/words/word-238.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-239",
+      "en": "help",
+      "he": "ההלפ",
+      "audio": "audio/words/word-239.mp3",
+      "image": "images/words/word-239.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-240",
+      "en": "share",
+      "he": "סהארה",
+      "audio": "audio/words/word-240.mp3",
+      "image": "images/words/word-240.png",
+      "tags": [
+        "core",
+        "verbs"
+      ]
+    },
+    {
+      "id": "word-241",
+      "en": "happy",
+      "he": "האפפי",
+      "audio": "audio/words/word-241.mp3",
+      "image": "images/words/word-241.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-242",
+      "en": "sad",
+      "he": "סאד",
+      "audio": "audio/words/word-242.mp3",
+      "image": "images/words/word-242.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-243",
+      "en": "angry",
+      "he": "אנגרי",
+      "audio": "audio/words/word-243.mp3",
+      "image": "images/words/word-243.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-244",
+      "en": "afraid",
+      "he": "אפראיד",
+      "audio": "audio/words/word-244.mp3",
+      "image": "images/words/word-244.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-245",
+      "en": "excited",
+      "he": "הקסקיטהד",
+      "audio": "audio/words/word-245.mp3",
+      "image": "images/words/word-245.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-246",
+      "en": "bored",
+      "he": "בורהד",
+      "audio": "audio/words/word-246.mp3",
+      "image": "images/words/word-246.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-247",
+      "en": "tired",
+      "he": "טירהד",
+      "audio": "audio/words/word-247.mp3",
+      "image": "images/words/word-247.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-248",
+      "en": "brave",
+      "he": "בראבה",
+      "audio": "audio/words/word-248.mp3",
+      "image": "images/words/word-248.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-249",
+      "en": "calm",
+      "he": "קאלמ",
+      "audio": "audio/words/word-249.mp3",
+      "image": "images/words/word-249.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-250",
+      "en": "proud",
+      "he": "פרווד",
+      "audio": "audio/words/word-250.mp3",
+      "image": "images/words/word-250.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-251",
+      "en": "shy",
+      "he": "סהי",
+      "audio": "audio/words/word-251.mp3",
+      "image": "images/words/word-251.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-252",
+      "en": "kind",
+      "he": "קינד",
+      "audio": "audio/words/word-252.mp3",
+      "image": "images/words/word-252.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-253",
+      "en": "silly",
+      "he": "סיללי",
+      "audio": "audio/words/word-253.mp3",
+      "image": "images/words/word-253.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-254",
+      "en": "worried",
+      "he": "וורריהד",
+      "audio": "audio/words/word-254.mp3",
+      "image": "images/words/word-254.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-255",
+      "en": "surprised",
+      "he": "סורפריסהד",
+      "audio": "audio/words/word-255.mp3",
+      "image": "images/words/word-255.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-256",
+      "en": "thankful",
+      "he": "טהאנקפול",
+      "audio": "audio/words/word-256.mp3",
+      "image": "images/words/word-256.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-257",
+      "en": "curious",
+      "he": "קוריווס",
+      "audio": "audio/words/word-257.mp3",
+      "image": "images/words/word-257.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-258",
+      "en": "gentle",
+      "he": "גהנטלה",
+      "audio": "audio/words/word-258.mp3",
+      "image": "images/words/word-258.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-259",
+      "en": "strong",
+      "he": "סטרונג",
+      "audio": "audio/words/word-259.mp3",
+      "image": "images/words/word-259.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-260",
+      "en": "friendly",
+      "he": "פריהנדלי",
+      "audio": "audio/words/word-260.mp3",
+      "image": "images/words/word-260.png",
+      "tags": [
+        "core",
+        "feelings"
+      ]
+    },
+    {
+      "id": "word-261",
+      "en": "mom",
+      "he": "מומ",
+      "audio": "audio/words/word-261.mp3",
+      "image": "images/words/word-261.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-262",
+      "en": "dad",
+      "he": "דאד",
+      "audio": "audio/words/word-262.mp3",
+      "image": "images/words/word-262.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-263",
+      "en": "sister",
+      "he": "סיסטהר",
+      "audio": "audio/words/word-263.mp3",
+      "image": "images/words/word-263.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-264",
+      "en": "brother",
+      "he": "ברוטההר",
+      "audio": "audio/words/word-264.mp3",
+      "image": "images/words/word-264.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-265",
+      "en": "grandma",
+      "he": "גראנדמא",
+      "audio": "audio/words/word-265.mp3",
+      "image": "images/words/word-265.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-266",
+      "en": "grandpa",
+      "he": "גראנדפא",
+      "audio": "audio/words/word-266.mp3",
+      "image": "images/words/word-266.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-267",
+      "en": "baby",
+      "he": "באבי",
+      "audio": "audio/words/word-267.mp3",
+      "image": "images/words/word-267.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-268",
+      "en": "child",
+      "he": "קהילד",
+      "audio": "audio/words/word-268.mp3",
+      "image": "images/words/word-268.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-269",
+      "en": "friend",
+      "he": "פריהנד",
+      "audio": "audio/words/word-269.mp3",
+      "image": "images/words/word-269.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-270",
+      "en": "teacher",
+      "he": "טהאקההר",
+      "audio": "audio/words/word-270.mp3",
+      "image": "images/words/word-270.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-271",
+      "en": "coach",
+      "he": "קואקה",
+      "audio": "audio/words/word-271.mp3",
+      "image": "images/words/word-271.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-272",
+      "en": "neighbor",
+      "he": "נהיגהבור",
+      "audio": "audio/words/word-272.mp3",
+      "image": "images/words/word-272.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-273",
+      "en": "doctor",
+      "he": "דוקטור",
+      "audio": "audio/words/word-273.mp3",
+      "image": "images/words/word-273.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-274",
+      "en": "nurse",
+      "he": "נורסה",
+      "audio": "audio/words/word-274.mp3",
+      "image": "images/words/word-274.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-275",
+      "en": "police",
+      "he": "פוליקה",
+      "audio": "audio/words/word-275.mp3",
+      "image": "images/words/word-275.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-276",
+      "en": "firefighter",
+      "he": "פירהפיגהטהר",
+      "audio": "audio/words/word-276.mp3",
+      "image": "images/words/word-276.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-277",
+      "en": "artist",
+      "he": "ארטיסט",
+      "audio": "audio/words/word-277.mp3",
+      "image": "images/words/word-277.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-278",
+      "en": "farmer",
+      "he": "פארמהר",
+      "audio": "audio/words/word-278.mp3",
+      "image": "images/words/word-278.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-279",
+      "en": "baker",
+      "he": "באקהר",
+      "audio": "audio/words/word-279.mp3",
+      "image": "images/words/word-279.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-280",
+      "en": "chef",
+      "he": "קההפ",
+      "audio": "audio/words/word-280.mp3",
+      "image": "images/words/word-280.png",
+      "tags": [
+        "core",
+        "family"
+      ]
+    },
+    {
+      "id": "word-281",
+      "en": "shirt",
+      "he": "סהירט",
+      "audio": "audio/words/word-281.mp3",
+      "image": "images/words/word-281.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-282",
+      "en": "pants",
+      "he": "פאנטס",
+      "audio": "audio/words/word-282.mp3",
+      "image": "images/words/word-282.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-283",
+      "en": "shorts",
+      "he": "סהורטס",
+      "audio": "audio/words/word-283.mp3",
+      "image": "images/words/word-283.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-284",
+      "en": "dress",
+      "he": "דרהסס",
+      "audio": "audio/words/word-284.mp3",
+      "image": "images/words/word-284.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-285",
+      "en": "skirt",
+      "he": "סקירט",
+      "audio": "audio/words/word-285.mp3",
+      "image": "images/words/word-285.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-286",
+      "en": "shoes",
+      "he": "סהוהס",
+      "audio": "audio/words/word-286.mp3",
+      "image": "images/words/word-286.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-287",
+      "en": "socks",
+      "he": "סוקקס",
+      "audio": "audio/words/word-287.mp3",
+      "image": "images/words/word-287.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-288",
+      "en": "hat",
+      "he": "האט",
+      "audio": "audio/words/word-288.mp3",
+      "image": "images/words/word-288.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-289",
+      "en": "cap",
+      "he": "קאפ",
+      "audio": "audio/words/word-289.mp3",
+      "image": "images/words/word-289.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-290",
+      "en": "coat",
+      "he": "קואט",
+      "audio": "audio/words/word-290.mp3",
+      "image": "images/words/word-290.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-291",
+      "en": "jacket",
+      "he": "גאקקהט",
+      "audio": "audio/words/word-291.mp3",
+      "image": "images/words/word-291.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-292",
+      "en": "scarf",
+      "he": "סקארפ",
+      "audio": "audio/words/word-292.mp3",
+      "image": "images/words/word-292.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-293",
+      "en": "gloves",
+      "he": "גלובהס",
+      "audio": "audio/words/word-293.mp3",
+      "image": "images/words/word-293.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-294",
+      "en": "boots",
+      "he": "בווטס",
+      "audio": "audio/words/word-294.mp3",
+      "image": "images/words/word-294.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-295",
+      "en": "belt",
+      "he": "בהלט",
+      "audio": "audio/words/word-295.mp3",
+      "image": "images/words/word-295.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-296",
+      "en": "tie",
+      "he": "טיה",
+      "audio": "audio/words/word-296.mp3",
+      "image": "images/words/word-296.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-297",
+      "en": "pajamas",
+      "he": "פאגאמאס",
+      "audio": "audio/words/word-297.mp3",
+      "image": "images/words/word-297.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-298",
+      "en": "sweater",
+      "he": "סוהאטהר",
+      "audio": "audio/words/word-298.mp3",
+      "image": "images/words/word-298.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-299",
+      "en": "hoodie",
+      "he": "הוודיה",
+      "audio": "audio/words/word-299.mp3",
+      "image": "images/words/word-299.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-300",
+      "en": "uniform",
+      "he": "וניפורמ",
+      "audio": "audio/words/word-300.mp3",
+      "image": "images/words/word-300.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-301",
+      "en": "helmet",
+      "he": "ההלמהט",
+      "audio": "audio/words/word-301.mp3",
+      "image": "images/words/word-301.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-302",
+      "en": "crown",
+      "he": "קרוונ",
+      "audio": "audio/words/word-302.mp3",
+      "image": "images/words/word-302.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-303",
+      "en": "ring",
+      "he": "רינג",
+      "audio": "audio/words/word-303.mp3",
+      "image": "images/words/word-303.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-304",
+      "en": "bracelet",
+      "he": "בראקהלהט",
+      "audio": "audio/words/word-304.mp3",
+      "image": "images/words/word-304.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-305",
+      "en": "necklace",
+      "he": "נהקקלאקה",
+      "audio": "audio/words/word-305.mp3",
+      "image": "images/words/word-305.png",
+      "tags": [
+        "core",
+        "clothing"
+      ]
+    },
+    {
+      "id": "word-306",
+      "en": "car",
+      "he": "קאר",
+      "audio": "audio/words/word-306.mp3",
+      "image": "images/words/word-306.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-307",
+      "en": "bus",
+      "he": "בוס",
+      "audio": "audio/words/word-307.mp3",
+      "image": "images/words/word-307.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-308",
+      "en": "train",
+      "he": "טראינ",
+      "audio": "audio/words/word-308.mp3",
+      "image": "images/words/word-308.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-309",
+      "en": "bike",
+      "he": "ביקה",
+      "audio": "audio/words/word-309.mp3",
+      "image": "images/words/word-309.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-310",
+      "en": "scooter",
+      "he": "סקווטהר",
+      "audio": "audio/words/word-310.mp3",
+      "image": "images/words/word-310.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-311",
+      "en": "truck",
+      "he": "טרוקק",
+      "audio": "audio/words/word-311.mp3",
+      "image": "images/words/word-311.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-312",
+      "en": "boat",
+      "he": "בואט",
+      "audio": "audio/words/word-312.mp3",
+      "image": "images/words/word-312.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-313",
+      "en": "ship",
+      "he": "סהיפ",
+      "audio": "audio/words/word-313.mp3",
+      "image": "images/words/word-313.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-314",
+      "en": "plane",
+      "he": "פלאנה",
+      "audio": "audio/words/word-314.mp3",
+      "image": "images/words/word-314.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-315",
+      "en": "rocket",
+      "he": "רוקקהט",
+      "audio": "audio/words/word-315.mp3",
+      "image": "images/words/word-315.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-316",
+      "en": "subway",
+      "he": "סובואי",
+      "audio": "audio/words/word-316.mp3",
+      "image": "images/words/word-316.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-317",
+      "en": "taxi",
+      "he": "טאקסי",
+      "audio": "audio/words/word-317.mp3",
+      "image": "images/words/word-317.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-318",
+      "en": "ambulance",
+      "he": "אמבולאנקה",
+      "audio": "audio/words/word-318.mp3",
+      "image": "images/words/word-318.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-319",
+      "en": "firetruck",
+      "he": "פירהטרוקק",
+      "audio": "audio/words/word-319.mp3",
+      "image": "images/words/word-319.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-320",
+      "en": "helicopter",
+      "he": "ההליקופטהר",
+      "audio": "audio/words/word-320.mp3",
+      "image": "images/words/word-320.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-321",
+      "en": "tractor",
+      "he": "טראקטור",
+      "audio": "audio/words/word-321.mp3",
+      "image": "images/words/word-321.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-322",
+      "en": "van",
+      "he": "באנ",
+      "audio": "audio/words/word-322.mp3",
+      "image": "images/words/word-322.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-323",
+      "en": "wagon",
+      "he": "ואגונ",
+      "audio": "audio/words/word-323.mp3",
+      "image": "images/words/word-323.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-324",
+      "en": "sled",
+      "he": "סלהד",
+      "audio": "audio/words/word-324.mp3",
+      "image": "images/words/word-324.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-325",
+      "en": "ferry",
+      "he": "פהררי",
+      "audio": "audio/words/word-325.mp3",
+      "image": "images/words/word-325.png",
+      "tags": [
+        "core",
+        "transport"
+      ]
+    },
+    {
+      "id": "word-326",
+      "en": "ball",
+      "he": "באלל",
+      "audio": "audio/words/word-326.mp3",
+      "image": "images/words/word-326.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-327",
+      "en": "bat",
+      "he": "באט",
+      "audio": "audio/words/word-327.mp3",
+      "image": "images/words/word-327.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-328",
+      "en": "glove",
+      "he": "גלובה",
+      "audio": "audio/words/word-328.mp3",
+      "image": "images/words/word-328.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-329",
+      "en": "racket",
+      "he": "ראקקהט",
+      "audio": "audio/words/word-329.mp3",
+      "image": "images/words/word-329.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-330",
+      "en": "net",
+      "he": "נהט",
+      "audio": "audio/words/word-330.mp3",
+      "image": "images/words/word-330.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-331",
+      "en": "goal",
+      "he": "גואל",
+      "audio": "audio/words/word-331.mp3",
+      "image": "images/words/word-331.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-332",
+      "en": "hoop",
+      "he": "הוופ",
+      "audio": "audio/words/word-332.mp3",
+      "image": "images/words/word-332.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-333",
+      "en": "kite",
+      "he": "קיטה",
+      "audio": "audio/words/word-333.mp3",
+      "image": "images/words/word-333.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-334",
+      "en": "doll",
+      "he": "דולל",
+      "audio": "audio/words/word-334.mp3",
+      "image": "images/words/word-334.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-335",
+      "en": "blocks",
+      "he": "בלוקקס",
+      "audio": "audio/words/word-335.mp3",
+      "image": "images/words/word-335.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-336",
+      "en": "puzzle",
+      "he": "פוזזלה",
+      "audio": "audio/words/word-336.mp3",
+      "image": "images/words/word-336.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-337",
+      "en": "game",
+      "he": "גאמה",
+      "audio": "audio/words/word-337.mp3",
+      "image": "images/words/word-337.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-338",
+      "en": "card",
+      "he": "קארד",
+      "audio": "audio/words/word-338.mp3",
+      "image": "images/words/word-338.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-339",
+      "en": "boardgame",
+      "he": "בוארדגאמה",
+      "audio": "audio/words/word-339.mp3",
+      "image": "images/words/word-339.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-340",
+      "en": "swing",
+      "he": "סוינג",
+      "audio": "audio/words/word-340.mp3",
+      "image": "images/words/word-340.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-341",
+      "en": "slide",
+      "he": "סלידה",
+      "audio": "audio/words/word-341.mp3",
+      "image": "images/words/word-341.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-342",
+      "en": "seesaw",
+      "he": "סההסאו",
+      "audio": "audio/words/word-342.mp3",
+      "image": "images/words/word-342.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-343",
+      "en": "drum",
+      "he": "דרומ",
+      "audio": "audio/words/word-343.mp3",
+      "image": "images/words/word-343.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-344",
+      "en": "flute",
+      "he": "פלוטה",
+      "audio": "audio/words/word-344.mp3",
+      "image": "images/words/word-344.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-345",
+      "en": "trumpet",
+      "he": "טרומפהט",
+      "audio": "audio/words/word-345.mp3",
+      "image": "images/words/word-345.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-346",
+      "en": "guitar",
+      "he": "גויטאר",
+      "audio": "audio/words/word-346.mp3",
+      "image": "images/words/word-346.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-347",
+      "en": "paint",
+      "he": "פאינט",
+      "audio": "audio/words/word-347.mp3",
+      "image": "images/words/word-347.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-348",
+      "en": "crayon",
+      "he": "קראיונ",
+      "audio": "audio/words/word-348.mp3",
+      "image": "images/words/word-348.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-349",
+      "en": "sticker",
+      "he": "סטיקקהר",
+      "audio": "audio/words/word-349.mp3",
+      "image": "images/words/word-349.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    },
+    {
+      "id": "word-350",
+      "en": "balloon",
+      "he": "באללוונ",
+      "audio": "audio/words/word-350.mp3",
+      "image": "images/words/word-350.png",
+      "tags": [
+        "core",
+        "toys"
+      ]
+    }
+  ]
+}

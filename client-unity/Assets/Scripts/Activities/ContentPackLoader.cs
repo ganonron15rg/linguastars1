@@ -1,28 +1,15 @@
 using System.Linq;
+using LinguaStars.Client.Content;
 using UnityEngine;
 
 namespace LinguaStars.Client.Activities
 {
     public static class ContentPackLoader
     {
-        public const string DefaultResourcePath = "Content/demo_content";
-
         public static ContentPack LoadDefault()
         {
-            TextAsset asset = Resources.Load<TextAsset>(DefaultResourcePath);
-            if (asset == null)
-            {
-                Debug.LogWarning($"Content pack not found at Resources/{DefaultResourcePath}.");
-                return new ContentPack { packId = "empty-pack" };
-            }
-
-            ContentPack pack = JsonUtility.FromJson<ContentPack>(asset.text);
-            if (pack == null)
-            {
-                pack = new ContentPack { packId = "empty-pack" };
-            }
-
-            return pack;
+            ContentPack pack = ContentAgent.Instance.BuildContentPack();
+            return pack ?? new ContentPack { packId = "empty-pack" };
         }
 
         public static LevelDefinition FindLevel(ContentPack pack, string levelId)
