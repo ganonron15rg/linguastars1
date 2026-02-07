@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using LinguaStars.Client.Core;
+using LinguaStars.Client.Content;
 using LinguaStars.Client.Data;
 using UnityEngine;
 
@@ -23,6 +24,12 @@ namespace LinguaStars.Client.Screens
         };
 
         public IReadOnlyList<CosmeticOffer> Offers => offers;
+
+        public override void OnShow(object context)
+        {
+            base.OnShow(context);
+            LoadOffersFromContent();
+        }
 
         public bool Purchase(string itemId)
         {
@@ -50,6 +57,26 @@ namespace LinguaStars.Client.Screens
         public void OpenInventory()
         {
             ScreenManager.Instance.NavigateTo(ScreenId.Inventory, null, clearStack: false);
+        }
+
+        private void LoadOffersFromContent()
+        {
+            IReadOnlyList<ShopItem> items = ContentAgent.Instance.LoadShopItems();
+            if (items == null || items.Count == 0)
+            {
+                return;
+            }
+
+            offers = new List<CosmeticOffer>();
+            foreach (ShopItem item in items)
+            {
+                offers.Add(new CosmeticOffer
+                {
+                    itemId = item.id,
+                    price = item.price_coins,
+                    displayName = item.name_en
+                });
+            }
         }
     }
 }

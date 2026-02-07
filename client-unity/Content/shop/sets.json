@@ -1,0 +1,130 @@
+{
+  "version": "v1",
+  "sets": [
+    {
+      "id": "set-school",
+      "title": {
+        "en": "School Set",
+        "he": "סקהוול סהט"
+      },
+      "item_ids": [
+        "school-001",
+        "school-002",
+        "school-003",
+        "school-004",
+        "school-005",
+        "school-006",
+        "school-007",
+        "school-008",
+        "school-009",
+        "school-010",
+        "school-011",
+        "school-012"
+      ],
+      "reward": {
+        "type": "coins",
+        "amount": 150
+      }
+    },
+    {
+      "id": "set-space",
+      "title": {
+        "en": "Space Set",
+        "he": "ספאקה סהט"
+      },
+      "item_ids": [
+        "space-013",
+        "space-014",
+        "space-015",
+        "space-016",
+        "space-017",
+        "space-018",
+        "space-019",
+        "space-020",
+        "space-021",
+        "space-022",
+        "space-023",
+        "space-024"
+      ],
+      "reward": {
+        "type": "coins",
+        "amount": 200
+      }
+    },
+    {
+      "id": "set-wizard",
+      "title": {
+        "en": "Wizard Set",
+        "he": "ויזארד סהט"
+      },
+      "item_ids": [
+        "wizard-025",
+        "wizard-026",
+        "wizard-027",
+        "wizard-028",
+        "wizard-029",
+        "wizard-030",
+        "wizard-031",
+        "wizard-032",
+        "wizard-033",
+        "wizard-034",
+        "wizard-035",
+        "wizard-036"
+      ],
+      "reward": {
+        "type": "coins",
+        "amount": 200
+      }
+    },
+    {
+      "id": "set-royal",
+      "title": {
+        "en": "Royal Set",
+        "he": "רויאל סהט"
+      },
+      "item_ids": [
+        "royal-037",
+        "royal-038",
+        "royal-039",
+        "royal-040",
+        "royal-041",
+        "royal-042",
+        "royal-043",
+        "royal-044",
+        "royal-045",
+        "royal-046",
+        "royal-047",
+        "royal-048"
+      ],
+      "reward": {
+        "type": "coins",
+        "amount": 200
+      }
+    },
+    {
+      "id": "set-dragon",
+      "title": {
+        "en": "Dragon Set",
+        "he": "דראגונ סהט"
+      },
+      "item_ids": [
+        "dragon-049",
+        "dragon-050",
+        "dragon-051",
+        "dragon-052",
+        "dragon-053",
+        "dragon-054",
+        "dragon-055",
+        "dragon-056",
+        "dragon-057",
+        "dragon-058",
+        "dragon-059",
+        "dragon-060"
+      ],
+      "reward": {
+        "type": "coins",
+        "amount": 200
+      }
+    }
+  ]
+}

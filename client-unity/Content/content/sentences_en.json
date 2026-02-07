@@ -1,0 +1,1205 @@
+{
+  "version": "v1",
+  "sentences": [
+    {
+      "id": "sentence-001",
+      "en": "The horse can carry.",
+      "he": "טהה הורסה קאנ קאררי.",
+      "audio": "audio/sentences/sentence-001.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-002",
+      "en": "We clean at the house.",
+      "he": "וה קלהאנ אט טהה הווסה.",
+      "audio": "audio/sentences/sentence-002.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-003",
+      "en": "She has a teal book.",
+      "he": "סהה האס א טהאל בווק.",
+      "audio": "audio/sentences/sentence-003.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-004",
+      "en": "My dad likes to cry.",
+      "he": "מי דאד ליקהס טו קרי.",
+      "audio": "audio/sentences/sentence-004.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-005",
+      "en": "The watermelon is on the ruler.",
+      "he": "טהה ואטהרמהלונ יס ונ טהה רולהר.",
+      "audio": "audio/sentences/sentence-005.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-006",
+      "en": "The giraffe is bored.",
+      "he": "טהה גיראפפה יס בורהד.",
+      "audio": "audio/sentences/sentence-006.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-007",
+      "en": "Please cook the table.",
+      "he": "פלהאסה קווק טהה טאבלה.",
+      "audio": "audio/sentences/sentence-007.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-008",
+      "en": "A green table is in the library.",
+      "he": "א גרההנ טאבלה יס ינ טהה ליברארי.",
+      "audio": "audio/sentences/sentence-008.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-009",
+      "en": "The pencil is teal.",
+      "he": "טהה פהנקיל יס טהאל.",
+      "audio": "audio/sentences/sentence-009.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-010",
+      "en": "I see a brown turtle.",
+      "he": "י סהה א ברוונ טורטלה.",
+      "audio": "audio/sentences/sentence-010.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-011",
+      "en": "The wolf can open.",
+      "he": "טהה וולפ קאנ ופהנ.",
+      "audio": "audio/sentences/sentence-011.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-012",
+      "en": "We throw at the school.",
+      "he": "וה טהרוו אט טהה סקהוול.",
+      "audio": "audio/sentences/sentence-012.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-013",
+      "en": "She has a teal pencil.",
+      "he": "סהה האס א טהאל פהנקיל.",
+      "audio": "audio/sentences/sentence-013.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-014",
+      "en": "My sister likes to clean.",
+      "he": "מי סיסטהר ליקהס טו קלהאנ.",
+      "audio": "audio/sentences/sentence-014.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-015",
+      "en": "The watermelon is on the pencil.",
+      "he": "טהה ואטהרמהלונ יס ונ טהה פהנקיל.",
+      "audio": "audio/sentences/sentence-015.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-016",
+      "en": "The cat is thankful.",
+      "he": "טהה קאט יס טהאנקפול.",
+      "audio": "audio/sentences/sentence-016.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-017",
+      "en": "Please learn the table.",
+      "he": "פלהאסה להארנ טהה טאבלה.",
+      "audio": "audio/sentences/sentence-017.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-018",
+      "en": "A green ruler is in the kitchen.",
+      "he": "א גרההנ רולהר יס ינ טהה קיטקההנ.",
+      "audio": "audio/sentences/sentence-018.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-019",
+      "en": "The desk is teal.",
+      "he": "טהה דהסק יס טהאל.",
+      "audio": "audio/sentences/sentence-019.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-020",
+      "en": "I see a brown horse.",
+      "he": "י סהה א ברוונ הורסה.",
+      "audio": "audio/sentences/sentence-020.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-021",
+      "en": "The wolf can clean.",
+      "he": "טהה וולפ קאנ קלהאנ.",
+      "audio": "audio/sentences/sentence-021.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-022",
+      "en": "We push at the library.",
+      "he": "וה פוסה אט טהה ליברארי.",
+      "audio": "audio/sentences/sentence-022.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-023",
+      "en": "She has a beige ruler.",
+      "he": "סהה האס א בהיגה רולהר.",
+      "audio": "audio/sentences/sentence-023.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-024",
+      "en": "My dad likes to wave.",
+      "he": "מי דאד ליקהס טו ואבה.",
+      "audio": "audio/sentences/sentence-024.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-025",
+      "en": "The banana is on the window.",
+      "he": "טהה באנאנא יס ונ טהה וינדוו.",
+      "audio": "audio/sentences/sentence-025.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-026",
+      "en": "The zebra is happy.",
+      "he": "טהה זהברא יס האפפי.",
+      "audio": "audio/sentences/sentence-026.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-027",
+      "en": "Please smile the desk.",
+      "he": "פלהאסה סמילה טהה דהסק.",
+      "audio": "audio/sentences/sentence-027.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-028",
+      "en": "A gold book is in the kitchen.",
+      "he": "א גולד בווק יס ינ טהה קיטקההנ.",
+      "audio": "audio/sentences/sentence-028.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-029",
+      "en": "The book is navy.",
+      "he": "טהה בווק יס נאבי.",
+      "audio": "audio/sentences/sentence-029.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-030",
+      "en": "I see a black wolf.",
+      "he": "י סהה א בלאקק וולפ.",
+      "audio": "audio/sentences/sentence-030.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-031",
+      "en": "The dolphin can eat.",
+      "he": "טהה דולפהינ קאנ האט.",
+      "audio": "audio/sentences/sentence-031.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-032",
+      "en": "We push at the school.",
+      "he": "וה פוסה אט טהה סקהוול.",
+      "audio": "audio/sentences/sentence-032.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-033",
+      "en": "She has a coral table.",
+      "he": "סהה האס א קוראל טאבלה.",
+      "audio": "audio/sentences/sentence-033.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-034",
+      "en": "My mom likes to sleep.",
+      "he": "מי מומ ליקהס טו סלההפ.",
+      "audio": "audio/sentences/sentence-034.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-035",
+      "en": "The salad is on the pencil.",
+      "he": "טהה סאלאד יס ונ טהה פהנקיל.",
+      "audio": "audio/sentences/sentence-035.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-036",
+      "en": "The bird is shy.",
+      "he": "טהה בירד יס סהי.",
+      "audio": "audio/sentences/sentence-036.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-037",
+      "en": "Please share the ball.",
+      "he": "פלהאסה סהארה טהה באלל.",
+      "audio": "audio/sentences/sentence-037.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-038",
+      "en": "A green table is in the kitchen.",
+      "he": "א גרההנ טאבלה יס ינ טהה קיטקההנ.",
+      "audio": "audio/sentences/sentence-038.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-039",
+      "en": "The desk is teal.",
+      "he": "טהה דהסק יס טהאל.",
+      "audio": "audio/sentences/sentence-039.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-040",
+      "en": "I see a purple cow.",
+      "he": "י סהה א פורפלה קוו.",
+      "audio": "audio/sentences/sentence-040.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-041",
+      "en": "The elephant can help.",
+      "he": "טהה הלהפהאנט קאנ ההלפ.",
+      "audio": "audio/sentences/sentence-041.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-042",
+      "en": "We run at the garden.",
+      "he": "וה רונ אט טהה גארדהנ.",
+      "audio": "audio/sentences/sentence-042.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-043",
+      "en": "She has a teal ball.",
+      "he": "סהה האס א טהאל באלל.",
+      "audio": "audio/sentences/sentence-043.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-044",
+      "en": "My farmer likes to clean.",
+      "he": "מי פארמהר ליקהס טו קלהאנ.",
+      "audio": "audio/sentences/sentence-044.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-045",
+      "en": "The soup is on the pencil.",
+      "he": "טהה סוופ יס ונ טהה פהנקיל.",
+      "audio": "audio/sentences/sentence-045.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-046",
+      "en": "The giraffe is surprised.",
+      "he": "טהה גיראפפה יס סורפריסהד.",
+      "audio": "audio/sentences/sentence-046.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-047",
+      "en": "Please run the chair.",
+      "he": "פלהאסה רונ טהה קהאיר.",
+      "audio": "audio/sentences/sentence-047.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-048",
+      "en": "A yellow ruler is in the park.",
+      "he": "א יהללוו רולהר יס ינ טהה פארק.",
+      "audio": "audio/sentences/sentence-048.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-049",
+      "en": "The table is yellow.",
+      "he": "טהה טאבלה יס יהללוו.",
+      "audio": "audio/sentences/sentence-049.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-050",
+      "en": "I see a yellow deer.",
+      "he": "י סהה א יהללוו דההר.",
+      "audio": "audio/sentences/sentence-050.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-051",
+      "en": "The deer can help.",
+      "he": "טהה דההר קאנ ההלפ.",
+      "audio": "audio/sentences/sentence-051.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-052",
+      "en": "We wave at the library.",
+      "he": "וה ואבה אט טהה ליברארי.",
+      "audio": "audio/sentences/sentence-052.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-053",
+      "en": "She has a lime chair.",
+      "he": "סהה האס א לימה קהאיר.",
+      "audio": "audio/sentences/sentence-053.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-054",
+      "en": "My nurse likes to swim.",
+      "he": "מי נורסה ליקהס טו סוימ.",
+      "audio": "audio/sentences/sentence-054.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-055",
+      "en": "The lemon is on the window.",
+      "he": "טהה להמונ יס ונ טהה וינדוו.",
+      "audio": "audio/sentences/sentence-055.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-056",
+      "en": "The goat is brave.",
+      "he": "טהה גואט יס בראבה.",
+      "audio": "audio/sentences/sentence-056.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-057",
+      "en": "Please catch the desk.",
+      "he": "פלהאסה קאטקה טהה דהסק.",
+      "audio": "audio/sentences/sentence-057.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-058",
+      "en": "A gold window is in the garden.",
+      "he": "א גולד וינדוו יס ינ טהה גארדהנ.",
+      "audio": "audio/sentences/sentence-058.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-059",
+      "en": "The window is navy.",
+      "he": "טהה וינדוו יס נאבי.",
+      "audio": "audio/sentences/sentence-059.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-060",
+      "en": "I see a coral bird.",
+      "he": "י סהה א קוראל בירד.",
+      "audio": "audio/sentences/sentence-060.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-061",
+      "en": "The chicken can play.",
+      "he": "טהה קהיקקהנ קאנ פלאי.",
+      "audio": "audio/sentences/sentence-061.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-062",
+      "en": "We eat at the library.",
+      "he": "וה האט אט טהה ליברארי.",
+      "audio": "audio/sentences/sentence-062.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-063",
+      "en": "She has a green chair.",
+      "he": "סהה האס א גרההנ קהאיר.",
+      "audio": "audio/sentences/sentence-063.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-064",
+      "en": "My chef likes to fly.",
+      "he": "מי קההפ ליקהס טו פלי.",
+      "audio": "audio/sentences/sentence-064.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-065",
+      "en": "The yogurt is on the ball.",
+      "he": "טהה יוגורט יס ונ טהה באלל.",
+      "audio": "audio/sentences/sentence-065.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-066",
+      "en": "The elephant is bored.",
+      "he": "טהה הלהפהאנט יס בורהד.",
+      "audio": "audio/sentences/sentence-066.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-067",
+      "en": "Please play the backpack.",
+      "he": "פלהאסה פלאי טהה באקקפאקק.",
+      "audio": "audio/sentences/sentence-067.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-068",
+      "en": "A white chair is in the garden.",
+      "he": "א והיטה קהאיר יס ינ טהה גארדהנ.",
+      "audio": "audio/sentences/sentence-068.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-069",
+      "en": "The ruler is black.",
+      "he": "טהה רולהר יס בלאקק.",
+      "audio": "audio/sentences/sentence-069.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-070",
+      "en": "I see a violet goat.",
+      "he": "י סהה א ביולהט גואט.",
+      "audio": "audio/sentences/sentence-070.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-071",
+      "en": "The rabbit can smile.",
+      "he": "טהה ראבביט קאנ סמילה.",
+      "audio": "audio/sentences/sentence-071.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-072",
+      "en": "We skip at the school.",
+      "he": "וה סקיפ אט טהה סקהוול.",
+      "audio": "audio/sentences/sentence-072.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-073",
+      "en": "She has a teal desk.",
+      "he": "סהה האס א טהאל דהסק.",
+      "audio": "audio/sentences/sentence-073.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-074",
+      "en": "My grandpa likes to learn.",
+      "he": "מי גראנדפא ליקהס טו להארנ.",
+      "audio": "audio/sentences/sentence-074.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-075",
+      "en": "The bread is on the window.",
+      "he": "טהה ברהאד יס ונ טהה וינדוו.",
+      "audio": "audio/sentences/sentence-075.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-076",
+      "en": "The chicken is shy.",
+      "he": "טהה קהיקקהנ יס סהי.",
+      "audio": "audio/sentences/sentence-076.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-077",
+      "en": "Please wave the ruler.",
+      "he": "פלהאסה ואבה טהה רולהר.",
+      "audio": "audio/sentences/sentence-077.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-078",
+      "en": "A red chair is in the house.",
+      "he": "א רהד קהאיר יס ינ טהה הווסה.",
+      "audio": "audio/sentences/sentence-078.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-079",
+      "en": "The table is silver.",
+      "he": "טהה טאבלה יס סילבהר.",
+      "audio": "audio/sentences/sentence-079.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-080",
+      "en": "I see a orange panda.",
+      "he": "י סהה א וראנגה פאנדא.",
+      "audio": "audio/sentences/sentence-080.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-081",
+      "en": "The monkey can sing.",
+      "he": "טהה מונקהי קאנ סינג.",
+      "audio": "audio/sentences/sentence-081.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-082",
+      "en": "We sleep at the library.",
+      "he": "וה סלההפ אט טהה ליברארי.",
+      "audio": "audio/sentences/sentence-082.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-083",
+      "en": "She has a brown chair.",
+      "he": "סהה האס א ברוונ קהאיר.",
+      "audio": "audio/sentences/sentence-083.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-084",
+      "en": "My farmer likes to skip.",
+      "he": "מי פארמהר ליקהס טו סקיפ.",
+      "audio": "audio/sentences/sentence-084.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-085",
+      "en": "The carrot is on the book.",
+      "he": "טהה קאררוט יס ונ טהה בווק.",
+      "audio": "audio/sentences/sentence-085.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-086",
+      "en": "The panda is angry.",
+      "he": "טהה פאנדא יס אנגרי.",
+      "audio": "audio/sentences/sentence-086.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-087",
+      "en": "Please smile the lamp.",
+      "he": "פלהאסה סמילה טהה לאמפ.",
+      "audio": "audio/sentences/sentence-087.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-088",
+      "en": "A green pencil is in the house.",
+      "he": "א גרההנ פהנקיל יס ינ טהה הווסה.",
+      "audio": "audio/sentences/sentence-088.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-089",
+      "en": "The backpack is orange.",
+      "he": "טהה באקקפאקק יס וראנגה.",
+      "audio": "audio/sentences/sentence-089.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-090",
+      "en": "I see a red wolf.",
+      "he": "י סהה א רהד וולפ.",
+      "audio": "audio/sentences/sentence-090.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-091",
+      "en": "The rabbit can sleep.",
+      "he": "טהה ראבביט קאנ סלההפ.",
+      "audio": "audio/sentences/sentence-091.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-092",
+      "en": "We teach at the house.",
+      "he": "וה טהאקה אט טהה הווסה.",
+      "audio": "audio/sentences/sentence-092.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-093",
+      "en": "She has a green backpack.",
+      "he": "סהה האס א גרההנ באקקפאקק.",
+      "audio": "audio/sentences/sentence-093.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-094",
+      "en": "My friend likes to fly.",
+      "he": "מי פריהנד ליקהס טו פלי.",
+      "audio": "audio/sentences/sentence-094.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-095",
+      "en": "The blueberry is on the book.",
+      "he": "טהה בלוהבהררי יס ונ טהה בווק.",
+      "audio": "audio/sentences/sentence-095.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-096",
+      "en": "The tiger is surprised.",
+      "he": "טהה טיגהר יס סורפריסהד.",
+      "audio": "audio/sentences/sentence-096.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-097",
+      "en": "Please sing the window.",
+      "he": "פלהאסה סינג טהה וינדוו.",
+      "audio": "audio/sentences/sentence-097.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-098",
+      "en": "A gray desk is in the park.",
+      "he": "א גראי דהסק יס ינ טהה פארק.",
+      "audio": "audio/sentences/sentence-098.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-099",
+      "en": "The window is red.",
+      "he": "טהה וינדוו יס רהד.",
+      "audio": "audio/sentences/sentence-099.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-100",
+      "en": "I see a peach bird.",
+      "he": "י סהה א פהאקה בירד.",
+      "audio": "audio/sentences/sentence-100.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-101",
+      "en": "The frog can learn.",
+      "he": "טהה פרוג קאנ להארנ.",
+      "audio": "audio/sentences/sentence-101.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-102",
+      "en": "We laugh at the park.",
+      "he": "וה לאוגה אט טהה פארק.",
+      "audio": "audio/sentences/sentence-102.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-103",
+      "en": "She has a lime book.",
+      "he": "סהה האס א לימה בווק.",
+      "audio": "audio/sentences/sentence-103.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-104",
+      "en": "My firefighter likes to draw.",
+      "he": "מי פירהפיגהטהר ליקהס טו דראו.",
+      "audio": "audio/sentences/sentence-104.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-105",
+      "en": "The watermelon is on the window.",
+      "he": "טהה ואטהרמהלונ יס ונ טהה וינדוו.",
+      "audio": "audio/sentences/sentence-105.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-106",
+      "en": "The tiger is silly.",
+      "he": "טהה טיגהר יס סיללי.",
+      "audio": "audio/sentences/sentence-106.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-107",
+      "en": "Please dance the table.",
+      "he": "פלהאסה דאנקה טהה טאבלה.",
+      "audio": "audio/sentences/sentence-107.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-108",
+      "en": "A lime lamp is in the park.",
+      "he": "א לימה לאמפ יס ינ טהה פארק.",
+      "audio": "audio/sentences/sentence-108.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-109",
+      "en": "The window is pink.",
+      "he": "טהה וינדוו יס פינק.",
+      "audio": "audio/sentences/sentence-109.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-110",
+      "en": "I see a brown lion.",
+      "he": "י סהה א ברוונ ליונ.",
+      "audio": "audio/sentences/sentence-110.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-111",
+      "en": "The bear can sleep.",
+      "he": "טהה בהאר קאנ סלההפ.",
+      "audio": "audio/sentences/sentence-111.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-112",
+      "en": "We cook at the park.",
+      "he": "וה קווק אט טהה פארק.",
+      "audio": "audio/sentences/sentence-112.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-113",
+      "en": "She has a green desk.",
+      "he": "סהה האס א גרההנ דהסק.",
+      "audio": "audio/sentences/sentence-113.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-114",
+      "en": "My baker likes to jump.",
+      "he": "מי באקהר ליקהס טו גומפ.",
+      "audio": "audio/sentences/sentence-114.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-115",
+      "en": "The cake is on the lamp.",
+      "he": "טהה קאקה יס ונ טהה לאמפ.",
+      "audio": "audio/sentences/sentence-115.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-116",
+      "en": "The horse is gentle.",
+      "he": "טהה הורסה יס גהנטלה.",
+      "audio": "audio/sentences/sentence-116.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-117",
+      "en": "Please draw the pencil.",
+      "he": "פלהאסה דראו טהה פהנקיל.",
+      "audio": "audio/sentences/sentence-117.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-118",
+      "en": "A orange desk is in the library.",
+      "he": "א וראנגה דהסק יס ינ טהה ליברארי.",
+      "audio": "audio/sentences/sentence-118.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-119",
+      "en": "The desk is white.",
+      "he": "טהה דהסק יס והיטה.",
+      "audio": "audio/sentences/sentence-119.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    },
+    {
+      "id": "sentence-120",
+      "en": "I see a red cat.",
+      "he": "י סהה א רהד קאט.",
+      "audio": "audio/sentences/sentence-120.mp3",
+      "tags": [
+        "core",
+        "sentence"
+      ]
+    }
+  ]
+}

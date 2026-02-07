@@ -1,0 +1,485 @@
+{
+  "version": "v1",
+  "items": [
+    {
+      "id": "school-001",
+      "set_name": "School",
+      "name_en": "Classic Backpack",
+      "name_he": "תרמיל קלאסי",
+      "category": "Outfit",
+      "price_coins": 120
+    },
+    {
+      "id": "school-002",
+      "set_name": "School",
+      "name_en": "Pencil Hoodie",
+      "name_he": "קפוצ'ון עיפרון",
+      "category": "Outfit",
+      "price_coins": 140
+    },
+    {
+      "id": "school-003",
+      "set_name": "School",
+      "name_en": "Notebook Tee",
+      "name_he": "חולצת מחברת",
+      "category": "Outfit",
+      "price_coins": 110
+    },
+    {
+      "id": "school-004",
+      "set_name": "School",
+      "name_en": "Library Card Lanyard",
+      "name_he": "שרוך כרטיס ספרייה",
+      "category": "Accessory",
+      "price_coins": 90
+    },
+    {
+      "id": "school-005",
+      "set_name": "School",
+      "name_en": "Chalk Cap",
+      "name_he": "כובע גיר",
+      "category": "Hat",
+      "price_coins": 80
+    },
+    {
+      "id": "school-006",
+      "set_name": "School",
+      "name_en": "Eraser Sneakers",
+      "name_he": "נעלי מחק",
+      "category": "Outfit",
+      "price_coins": 150
+    },
+    {
+      "id": "school-007",
+      "set_name": "School",
+      "name_en": "Desk Lamp Glow",
+      "name_he": "זוהר מנורת שולחן",
+      "category": "Effect",
+      "price_coins": 130
+    },
+    {
+      "id": "school-008",
+      "set_name": "School",
+      "name_en": "Locker Sticker Pack",
+      "name_he": "מדבקות לוקר",
+      "category": "Room Decor",
+      "price_coins": 100
+    },
+    {
+      "id": "school-009",
+      "set_name": "School",
+      "name_en": "Hall Pass Badge",
+      "name_he": "תג מעבר",
+      "category": "Accessory",
+      "price_coins": 70
+    },
+    {
+      "id": "school-010",
+      "set_name": "School",
+      "name_en": "Science Goggles",
+      "name_he": "משקפי מדע",
+      "category": "Accessory",
+      "price_coins": 95
+    },
+    {
+      "id": "school-011",
+      "set_name": "School",
+      "name_en": "Recess Whistle",
+      "name_he": "משרוקית הפסקה",
+      "category": "Accessory",
+      "price_coins": 85
+    },
+    {
+      "id": "school-012",
+      "set_name": "School",
+      "name_en": "Calendar Wall Poster",
+      "name_he": "פוסטר לוח שנה",
+      "category": "Room Decor",
+      "price_coins": 105
+    },
+    {
+      "id": "space-013",
+      "set_name": "Space",
+      "name_en": "Starfield Suit",
+      "name_he": "חליפת שדה כוכבים",
+      "category": "Outfit",
+      "price_coins": 180
+    },
+    {
+      "id": "space-014",
+      "set_name": "Space",
+      "name_en": "Comet Cape",
+      "name_he": "גלימת שביט",
+      "category": "Outfit",
+      "price_coins": 170
+    },
+    {
+      "id": "space-015",
+      "set_name": "Space",
+      "name_en": "Moon Boots",
+      "name_he": "מגפי ירח",
+      "category": "Outfit",
+      "price_coins": 160
+    },
+    {
+      "id": "space-016",
+      "set_name": "Space",
+      "name_en": "Rocket Pack",
+      "name_he": "תרמיל רקטה",
+      "category": "Accessory",
+      "price_coins": 150
+    },
+    {
+      "id": "space-017",
+      "set_name": "Space",
+      "name_en": "Planet Helm",
+      "name_he": "קסדת כוכב לכת",
+      "category": "Hat",
+      "price_coins": 140
+    },
+    {
+      "id": "space-018",
+      "set_name": "Space",
+      "name_en": "Satellite Earrings",
+      "name_he": "עגילי לוויין",
+      "category": "Accessory",
+      "price_coins": 95
+    },
+    {
+      "id": "space-019",
+      "set_name": "Space",
+      "name_en": "Nebula Scarf",
+      "name_he": "צעיף ערפילית",
+      "category": "Accessory",
+      "price_coins": 110
+    },
+    {
+      "id": "space-020",
+      "set_name": "Space",
+      "name_en": "Meteor Trail Effect",
+      "name_he": "אפקט שובל מטאור",
+      "category": "Effect",
+      "price_coins": 190
+    },
+    {
+      "id": "space-021",
+      "set_name": "Space",
+      "name_en": "Zero-Gravity Glow",
+      "name_he": "זוהר חוסר כבידה",
+      "category": "Effect",
+      "price_coins": 175
+    },
+    {
+      "id": "space-022",
+      "set_name": "Space",
+      "name_en": "Lunar Desk Model",
+      "name_he": "דגם ירח לשולחן",
+      "category": "Room Decor",
+      "price_coins": 130
+    },
+    {
+      "id": "space-023",
+      "set_name": "Space",
+      "name_en": "Space Window View",
+      "name_he": "חלון נוף חלל",
+      "category": "Room Decor",
+      "price_coins": 160
+    },
+    {
+      "id": "space-024",
+      "set_name": "Space",
+      "name_en": "Starlight Rug",
+      "name_he": "שטיח אור כוכבים",
+      "category": "Room Decor",
+      "price_coins": 145
+    },
+    {
+      "id": "wizard-025",
+      "set_name": "Wizard",
+      "name_en": "Apprentice Robe",
+      "name_he": "גלימת שוליה",
+      "category": "Outfit",
+      "price_coins": 150
+    },
+    {
+      "id": "wizard-026",
+      "set_name": "Wizard",
+      "name_en": "Arcane Mantle",
+      "name_he": "מעטפת ארקנה",
+      "category": "Outfit",
+      "price_coins": 190
+    },
+    {
+      "id": "wizard-027",
+      "set_name": "Wizard",
+      "name_en": "Spellbook Satchel",
+      "name_he": "תיק ספר לחשים",
+      "category": "Accessory",
+      "price_coins": 140
+    },
+    {
+      "id": "wizard-028",
+      "set_name": "Wizard",
+      "name_en": "Crystal Hat",
+      "name_he": "כובע קריסטל",
+      "category": "Hat",
+      "price_coins": 135
+    },
+    {
+      "id": "wizard-029",
+      "set_name": "Wizard",
+      "name_en": "Wand of Sparks",
+      "name_he": "שרביט ניצוצות",
+      "category": "Accessory",
+      "price_coins": 160
+    },
+    {
+      "id": "wizard-030",
+      "set_name": "Wizard",
+      "name_en": "Potion Belt",
+      "name_he": "חגורת שיקויים",
+      "category": "Accessory",
+      "price_coins": 120
+    },
+    {
+      "id": "wizard-031",
+      "set_name": "Wizard",
+      "name_en": "Mystic Boots",
+      "name_he": "מגפי מיסטיקה",
+      "category": "Outfit",
+      "price_coins": 155
+    },
+    {
+      "id": "wizard-032",
+      "set_name": "Wizard",
+      "name_en": "Rune Aura",
+      "name_he": "הילה רונית",
+      "category": "Effect",
+      "price_coins": 180
+    },
+    {
+      "id": "wizard-033",
+      "set_name": "Wizard",
+      "name_en": "Cauldron Corner",
+      "name_he": "פינת קלחת",
+      "category": "Room Decor",
+      "price_coins": 170
+    },
+    {
+      "id": "wizard-034",
+      "set_name": "Wizard",
+      "name_en": "Enchanted Banner",
+      "name_he": "דגל מכושף",
+      "category": "Room Decor",
+      "price_coins": 150
+    },
+    {
+      "id": "wizard-035",
+      "set_name": "Wizard",
+      "name_en": "Owl Familiar",
+      "name_he": "ינשוף מלווה",
+      "category": "Accessory",
+      "price_coins": 165
+    },
+    {
+      "id": "wizard-036",
+      "set_name": "Wizard",
+      "name_en": "Moonlit Curtains",
+      "name_he": "וילונות אור ירח",
+      "category": "Room Decor",
+      "price_coins": 140
+    },
+    {
+      "id": "royal-037",
+      "set_name": "Royal",
+      "name_en": "Crowned Jacket",
+      "name_he": "ז'קט מוכתר",
+      "category": "Outfit",
+      "price_coins": 200
+    },
+    {
+      "id": "royal-038",
+      "set_name": "Royal",
+      "name_en": "Velvet Gown",
+      "name_he": "שמלת קטיפה",
+      "category": "Outfit",
+      "price_coins": 210
+    },
+    {
+      "id": "royal-039",
+      "set_name": "Royal",
+      "name_en": "Royal Sash",
+      "name_he": "אבנט מלכותי",
+      "category": "Accessory",
+      "price_coins": 130
+    },
+    {
+      "id": "royal-040",
+      "set_name": "Royal",
+      "name_en": "Jewel Crown",
+      "name_he": "כתר אבנים",
+      "category": "Hat",
+      "price_coins": 190
+    },
+    {
+      "id": "royal-041",
+      "set_name": "Royal",
+      "name_en": "Golden Gloves",
+      "name_he": "כפפות זהב",
+      "category": "Accessory",
+      "price_coins": 120
+    },
+    {
+      "id": "royal-042",
+      "set_name": "Royal",
+      "name_en": "Palace Slippers",
+      "name_he": "נעלי ארמון",
+      "category": "Outfit",
+      "price_coins": 160
+    },
+    {
+      "id": "royal-043",
+      "set_name": "Royal",
+      "name_en": "Heraldic Cape",
+      "name_he": "גלימת סמל",
+      "category": "Outfit",
+      "price_coins": 180
+    },
+    {
+      "id": "royal-044",
+      "set_name": "Royal",
+      "name_en": "Throne Stool",
+      "name_he": "שרפרף כס",
+      "category": "Room Decor",
+      "price_coins": 170
+    },
+    {
+      "id": "royal-045",
+      "set_name": "Royal",
+      "name_en": "Banner of Lions",
+      "name_he": "דגל אריות",
+      "category": "Room Decor",
+      "price_coins": 155
+    },
+    {
+      "id": "royal-046",
+      "set_name": "Royal",
+      "name_en": "Candlelight Glow",
+      "name_he": "זוהר נרות",
+      "category": "Effect",
+      "price_coins": 175
+    },
+    {
+      "id": "royal-047",
+      "set_name": "Royal",
+      "name_en": "Ruby Necklace",
+      "name_he": "שרשרת אודם",
+      "category": "Accessory",
+      "price_coins": 165
+    },
+    {
+      "id": "royal-048",
+      "set_name": "Royal",
+      "name_en": "Ballroom Mirror",
+      "name_he": "מראה אולם נשפים",
+      "category": "Room Decor",
+      "price_coins": 190
+    },
+    {
+      "id": "dragon-049",
+      "set_name": "Dragon",
+      "name_en": "Scale Armor",
+      "name_he": "שריון קשקשים",
+      "category": "Outfit",
+      "price_coins": 220
+    },
+    {
+      "id": "dragon-050",
+      "set_name": "Dragon",
+      "name_en": "Ember Cloak",
+      "name_he": "גלימת גחלים",
+      "category": "Outfit",
+      "price_coins": 200
+    },
+    {
+      "id": "dragon-051",
+      "set_name": "Dragon",
+      "name_en": "Dragonwing Helm",
+      "name_he": "קסדת כנף דרקון",
+      "category": "Hat",
+      "price_coins": 190
+    },
+    {
+      "id": "dragon-052",
+      "set_name": "Dragon",
+      "name_en": "Claw Gauntlets",
+      "name_he": "כפפות טופר",
+      "category": "Accessory",
+      "price_coins": 170
+    },
+    {
+      "id": "dragon-053",
+      "set_name": "Dragon",
+      "name_en": "Flame Tail",
+      "name_he": "זנב להבה",
+      "category": "Accessory",
+      "price_coins": 180
+    },
+    {
+      "id": "dragon-054",
+      "set_name": "Dragon",
+      "name_en": "Lava Boots",
+      "name_he": "מגפי לבה",
+      "category": "Outfit",
+      "price_coins": 210
+    },
+    {
+      "id": "dragon-055",
+      "set_name": "Dragon",
+      "name_en": "Roar Aura",
+      "name_he": "הילת שאגה",
+      "category": "Effect",
+      "price_coins": 230
+    },
+    {
+      "id": "dragon-056",
+      "set_name": "Dragon",
+      "name_en": "Ashfall Effect",
+      "name_he": "אפקט אפר נושר",
+      "category": "Effect",
+      "price_coins": 210
+    },
+    {
+      "id": "dragon-057",
+      "set_name": "Dragon",
+      "name_en": "Dragon Egg Pedestal",
+      "name_he": "כן ביצת דרקון",
+      "category": "Room Decor",
+      "price_coins": 195
+    },
+    {
+      "id": "dragon-058",
+      "set_name": "Dragon",
+      "name_en": "Hoard Chest",
+      "name_he": "תיבת אוצר",
+      "category": "Room Decor",
+      "price_coins": 205
+    },
+    {
+      "id": "dragon-059",
+      "set_name": "Dragon",
+      "name_en": "Skyforge Banner",
+      "name_he": "דגל שמי-אור",
+      "category": "Room Decor",
+      "price_coins": 185
+    },
+    {
+      "id": "dragon-060",
+      "set_name": "Dragon",
+      "name_en": "Dragon Companion",
+      "name_he": "מלווה דרקון",
+      "category": "Accessory",
+      "price_coins": 240
+    }
+  ]
+}

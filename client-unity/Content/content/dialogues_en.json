@@ -1,0 +1,665 @@
+{
+  "version": "v1",
+  "dialogues": [
+    {
+      "id": "dialogue-001",
+      "title": {
+        "en": "Everyday Chat 1",
+        "he": "הבהרידאי קהאט 1"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "See you later.",
+          "he": "סהה יוו לאטהר."
+        },
+        {
+          "speaker": "B",
+          "en": "Thank you.",
+          "he": "טהאנק יוו."
+        },
+        {
+          "speaker": "A",
+          "en": "I am happy.",
+          "he": "י אמ האפפי."
+        },
+        {
+          "speaker": "B",
+          "en": "Thank you.",
+          "he": "טהאנק יוו."
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-002",
+      "title": {
+        "en": "Everyday Chat 2",
+        "he": "הבהרידאי קהאט 2"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "I am happy.",
+          "he": "י אמ האפפי."
+        },
+        {
+          "speaker": "B",
+          "en": "Hi!",
+          "he": "הי!"
+        },
+        {
+          "speaker": "A",
+          "en": "Yes, I do!",
+          "he": "יהס, י דו!"
+        },
+        {
+          "speaker": "B",
+          "en": "Let's play.",
+          "he": "להט'ס פלאי."
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-003",
+      "title": {
+        "en": "Everyday Chat 3",
+        "he": "הבהרידאי קהאט 3"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "Hi!",
+          "he": "הי!"
+        },
+        {
+          "speaker": "B",
+          "en": "Hi!",
+          "he": "הי!"
+        },
+        {
+          "speaker": "A",
+          "en": "I am happy.",
+          "he": "י אמ האפפי."
+        },
+        {
+          "speaker": "B",
+          "en": "See you later.",
+          "he": "סהה יוו לאטהר."
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-004",
+      "title": {
+        "en": "Everyday Chat 4",
+        "he": "הבהרידאי קהאט 4"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "Yes, I do!",
+          "he": "יהס, י דו!"
+        },
+        {
+          "speaker": "B",
+          "en": "Hello!",
+          "he": "ההללו!"
+        },
+        {
+          "speaker": "A",
+          "en": "Let's play.",
+          "he": "להט'ס פלאי."
+        },
+        {
+          "speaker": "B",
+          "en": "I am happy.",
+          "he": "י אמ האפפי."
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-005",
+      "title": {
+        "en": "Everyday Chat 5",
+        "he": "הבהרידאי קהאט 5"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "Yes, I do!",
+          "he": "יהס, י דו!"
+        },
+        {
+          "speaker": "B",
+          "en": "Do you like this game?",
+          "he": "דו יוו ליקה טהיס גאמה?"
+        },
+        {
+          "speaker": "A",
+          "en": "I am happy.",
+          "he": "י אמ האפפי."
+        },
+        {
+          "speaker": "B",
+          "en": "See you later.",
+          "he": "סהה יוו לאטהר."
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-006",
+      "title": {
+        "en": "Everyday Chat 6",
+        "he": "הבהרידאי קהאט 6"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "Hi!",
+          "he": "הי!"
+        },
+        {
+          "speaker": "B",
+          "en": "Do you like this game?",
+          "he": "דו יוו ליקה טהיס גאמה?"
+        },
+        {
+          "speaker": "A",
+          "en": "Yes, I do!",
+          "he": "יהס, י דו!"
+        },
+        {
+          "speaker": "B",
+          "en": "Do you like this game?",
+          "he": "דו יוו ליקה טהיס גאמה?"
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-007",
+      "title": {
+        "en": "Everyday Chat 7",
+        "he": "הבהרידאי קהאט 7"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "Yes, I do!",
+          "he": "יהס, י דו!"
+        },
+        {
+          "speaker": "B",
+          "en": "I am happy.",
+          "he": "י אמ האפפי."
+        },
+        {
+          "speaker": "A",
+          "en": "Hi!",
+          "he": "הי!"
+        },
+        {
+          "speaker": "B",
+          "en": "Let's play.",
+          "he": "להט'ס פלאי."
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-008",
+      "title": {
+        "en": "Everyday Chat 8",
+        "he": "הבהרידאי קהאט 8"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "Thank you.",
+          "he": "טהאנק יוו."
+        },
+        {
+          "speaker": "B",
+          "en": "Hello!",
+          "he": "ההללו!"
+        },
+        {
+          "speaker": "A",
+          "en": "I am happy.",
+          "he": "י אמ האפפי."
+        },
+        {
+          "speaker": "B",
+          "en": "See you later.",
+          "he": "סהה יוו לאטהר."
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-009",
+      "title": {
+        "en": "Everyday Chat 9",
+        "he": "הבהרידאי קהאט 9"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "I am happy.",
+          "he": "י אמ האפפי."
+        },
+        {
+          "speaker": "B",
+          "en": "Let's play.",
+          "he": "להט'ס פלאי."
+        },
+        {
+          "speaker": "A",
+          "en": "I am happy.",
+          "he": "י אמ האפפי."
+        },
+        {
+          "speaker": "B",
+          "en": "I am happy.",
+          "he": "י אמ האפפי."
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-010",
+      "title": {
+        "en": "Everyday Chat 10",
+        "he": "הבהרידאי קהאט 10"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "See you later.",
+          "he": "סהה יוו לאטהר."
+        },
+        {
+          "speaker": "B",
+          "en": "I am happy.",
+          "he": "י אמ האפפי."
+        },
+        {
+          "speaker": "A",
+          "en": "Let's play.",
+          "he": "להט'ס פלאי."
+        },
+        {
+          "speaker": "B",
+          "en": "Let's play.",
+          "he": "להט'ס פלאי."
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-011",
+      "title": {
+        "en": "Everyday Chat 11",
+        "he": "הבהרידאי קהאט 11"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "Hello!",
+          "he": "ההללו!"
+        },
+        {
+          "speaker": "B",
+          "en": "You're welcome.",
+          "he": "יוו'רה והלקומה."
+        },
+        {
+          "speaker": "A",
+          "en": "See you later.",
+          "he": "סהה יוו לאטהר."
+        },
+        {
+          "speaker": "B",
+          "en": "You're welcome.",
+          "he": "יוו'רה והלקומה."
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-012",
+      "title": {
+        "en": "Everyday Chat 12",
+        "he": "הבהרידאי קהאט 12"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "How are you?",
+          "he": "הוו ארה יוו?"
+        },
+        {
+          "speaker": "B",
+          "en": "I am happy.",
+          "he": "י אמ האפפי."
+        },
+        {
+          "speaker": "A",
+          "en": "See you later.",
+          "he": "סהה יוו לאטהר."
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, I do!",
+          "he": "יהס, י דו!"
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-013",
+      "title": {
+        "en": "Everyday Chat 13",
+        "he": "הבהרידאי קהאט 13"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "Hi!",
+          "he": "הי!"
+        },
+        {
+          "speaker": "B",
+          "en": "You're welcome.",
+          "he": "יוו'רה והלקומה."
+        },
+        {
+          "speaker": "A",
+          "en": "How are you?",
+          "he": "הוו ארה יוו?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, I do!",
+          "he": "יהס, י דו!"
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-014",
+      "title": {
+        "en": "Everyday Chat 14",
+        "he": "הבהרידאי קהאט 14"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "Hi!",
+          "he": "הי!"
+        },
+        {
+          "speaker": "B",
+          "en": "I am happy.",
+          "he": "י אמ האפפי."
+        },
+        {
+          "speaker": "A",
+          "en": "Hi!",
+          "he": "הי!"
+        },
+        {
+          "speaker": "B",
+          "en": "You're welcome.",
+          "he": "יוו'רה והלקומה."
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-015",
+      "title": {
+        "en": "Everyday Chat 15",
+        "he": "הבהרידאי קהאט 15"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "How are you?",
+          "he": "הוו ארה יוו?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, I do!",
+          "he": "יהס, י דו!"
+        },
+        {
+          "speaker": "A",
+          "en": "Hi!",
+          "he": "הי!"
+        },
+        {
+          "speaker": "B",
+          "en": "Hi!",
+          "he": "הי!"
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-016",
+      "title": {
+        "en": "Everyday Chat 16",
+        "he": "הבהרידאי קהאט 16"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "How are you?",
+          "he": "הוו ארה יוו?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, I do!",
+          "he": "יהס, י דו!"
+        },
+        {
+          "speaker": "A",
+          "en": "See you later.",
+          "he": "סהה יוו לאטהר."
+        },
+        {
+          "speaker": "B",
+          "en": "Do you like this game?",
+          "he": "דו יוו ליקה טהיס גאמה?"
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-017",
+      "title": {
+        "en": "Everyday Chat 17",
+        "he": "הבהרידאי קהאט 17"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "Hello!",
+          "he": "ההללו!"
+        },
+        {
+          "speaker": "B",
+          "en": "Hello!",
+          "he": "ההללו!"
+        },
+        {
+          "speaker": "A",
+          "en": "How are you?",
+          "he": "הוו ארה יוו?"
+        },
+        {
+          "speaker": "B",
+          "en": "Do you like this game?",
+          "he": "דו יוו ליקה טהיס גאמה?"
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-018",
+      "title": {
+        "en": "Everyday Chat 18",
+        "he": "הבהרידאי קהאט 18"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "I am happy.",
+          "he": "י אמ האפפי."
+        },
+        {
+          "speaker": "B",
+          "en": "How are you?",
+          "he": "הוו ארה יוו?"
+        },
+        {
+          "speaker": "A",
+          "en": "Thank you.",
+          "he": "טהאנק יוו."
+        },
+        {
+          "speaker": "B",
+          "en": "See you later.",
+          "he": "סהה יוו לאטהר."
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-019",
+      "title": {
+        "en": "Everyday Chat 19",
+        "he": "הבהרידאי קהאט 19"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "Hi!",
+          "he": "הי!"
+        },
+        {
+          "speaker": "B",
+          "en": "Let's play.",
+          "he": "להט'ס פלאי."
+        },
+        {
+          "speaker": "A",
+          "en": "Yes, I do!",
+          "he": "יהס, י דו!"
+        },
+        {
+          "speaker": "B",
+          "en": "Do you like this game?",
+          "he": "דו יוו ליקה טהיס גאמה?"
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "dialogue-020",
+      "title": {
+        "en": "Everyday Chat 20",
+        "he": "הבהרידאי קהאט 20"
+      },
+      "lines": [
+        {
+          "speaker": "A",
+          "en": "Do you like this game?",
+          "he": "דו יוו ליקה טהיס גאמה?"
+        },
+        {
+          "speaker": "B",
+          "en": "See you later.",
+          "he": "סהה יוו לאטהר."
+        },
+        {
+          "speaker": "A",
+          "en": "How are you?",
+          "he": "הוו ארה יוו?"
+        },
+        {
+          "speaker": "B",
+          "en": "Hello!",
+          "he": "ההללו!"
+        }
+      ],
+      "tags": [
+        "core",
+        "dialogue"
+      ]
+    }
+  ]
+}
