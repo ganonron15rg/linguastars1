@@ -9,6 +9,7 @@ namespace LinguaStars.Client.Core
         StageMap,
         LevelIntro,
         ActivityPlayerHost,
+        RewardMoment,
         LevelSummary,
         FreePlay,
         Shop,

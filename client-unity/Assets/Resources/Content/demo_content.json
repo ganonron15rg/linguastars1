@@ -1,0 +1,151 @@
+{
+  "packId": "demo-pack",
+  "title": "Demo Pack",
+  "heTitle": "חבילת הדגמה",
+  "levels": [
+    {
+      "levelId": "world1-stage1-level1",
+      "title": "Hello Friends",
+      "heTitle": "שלום חברים",
+      "description": "Greetings and basics",
+      "heDescription": "ברכות ויסודות",
+      "activities": [
+        {
+          "activityId": "act-hear-1",
+          "type": 0,
+          "prompt": "Tap the word you hear: hello",
+          "hePrompt": "גע במילה שאתה שומע: שלום",
+          "itemId": "vocab-hello",
+          "correctAnswer": "hello",
+          "heCorrectAnswer": "שלום",
+          "options": ["hello", "goodbye", "thanks"],
+          "heOptions": ["שלום", "להתראות", "תודה"],
+          "estimatedDurationSeconds": 20,
+          "forceRetry": true
+        },
+        {
+          "activityId": "act-match-1",
+          "type": 1,
+          "prompt": "Match the pairs",
+          "hePrompt": "התאם זוגות",
+          "itemId": "pair-greetings",
+          "pairLeft": ["hello", "goodbye", "thanks"],
+          "pairRight": ["שלום", "להתראות", "תודה"],
+          "estimatedDurationSeconds": 30
+        },
+        {
+          "activityId": "act-build-1",
+          "type": 2,
+          "prompt": "Build the word",
+          "hePrompt": "בנה את המילה",
+          "itemId": "vocab-apple",
+          "correctAnswer": "apple",
+          "heCorrectAnswer": "תפוח",
+          "tokens": ["ap", "ple"],
+          "heTokens": ["ת", "פוח"],
+          "estimatedDurationSeconds": 25
+        },
+        {
+          "activityId": "act-choose-1",
+          "type": 3,
+          "prompt": "Choose the correct word for the picture: cat",
+          "hePrompt": "בחר את המילה הנכונה לתמונה: חתול",
+          "itemId": "vocab-cat",
+          "correctAnswer": "cat",
+          "heCorrectAnswer": "חתול",
+          "options": ["cat", "dog", "bird"],
+          "heOptions": ["חתול", "כלב", "ציפור"],
+          "estimatedDurationSeconds": 25,
+          "forceRetry": true
+        },
+        {
+          "activityId": "act-sentence-1",
+          "type": 4,
+          "prompt": "Build the sentence",
+          "hePrompt": "בנה את המשפט",
+          "itemId": "sentence-hello",
+          "targetSentence": "hello friend",
+          "heTargetSentence": "שלום חבר",
+          "tokens": ["hello", "friend"],
+          "heTokens": ["שלום", "חבר"],
+          "estimatedDurationSeconds": 40
+        },
+        {
+          "activityId": "act-listen-choose-1",
+          "type": 5,
+          "prompt": "Listen and choose",
+          "hePrompt": "הקשב ובחר",
+          "itemId": "vocab-water",
+          "correctAnswer": "water",
+          "heCorrectAnswer": "מים",
+          "options": ["water", "milk", "juice"],
+          "heOptions": ["מים", "חלב", "מיץ"],
+          "estimatedDurationSeconds": 30
+        },
+        {
+          "activityId": "act-listen-type-1",
+          "type": 6,
+          "prompt": "Listen and type the word",
+          "hePrompt": "הקשב והקלד את המילה",
+          "itemId": "vocab-sun",
+          "correctAnswer": "sun",
+          "heCorrectAnswer": "שמש",
+          "estimatedDurationSeconds": 35
+        },
+        {
+          "activityId": "act-speak-1",
+          "type": 7,
+          "prompt": "Speak the word: hello",
+          "hePrompt": "אמור את המילה: שלום",
+          "itemId": "speak-hello",
+          "correctAnswer": "hello",
+          "heCorrectAnswer": "שלום",
+          "estimatedDurationSeconds": 15
+        }
+      ]
+    },
+    {
+      "levelId": "daily-01",
+      "title": "Daily Warmup",
+      "heTitle": "חימום יומי",
+      "description": "Quick review and new content",
+      "heDescription": "חזרה מהירה ותוכן חדש",
+      "activities": [
+        {
+          "activityId": "daily-hear-1",
+          "type": 0,
+          "prompt": "Tap the word you hear: thanks",
+          "hePrompt": "גע במילה שאתה שומע: תודה",
+          "itemId": "vocab-thanks",
+          "correctAnswer": "thanks",
+          "heCorrectAnswer": "תודה",
+          "options": ["thanks", "hello", "bye"],
+          "heOptions": ["תודה", "שלום", "להתראות"],
+          "estimatedDurationSeconds": 20
+        },
+        {
+          "activityId": "daily-choose-1",
+          "type": 3,
+          "prompt": "Choose the correct word: moon",
+          "hePrompt": "בחר את המילה הנכונה: ירח",
+          "itemId": "vocab-moon",
+          "correctAnswer": "moon",
+          "heCorrectAnswer": "ירח",
+          "options": ["sun", "moon", "star"],
+          "heOptions": ["שמש", "ירח", "כוכב"],
+          "estimatedDurationSeconds": 25
+        },
+        {
+          "activityId": "daily-listen-type-1",
+          "type": 6,
+          "prompt": "Listen and type: star",
+          "hePrompt": "הקשב והקלד: כוכב",
+          "itemId": "vocab-star",
+          "correctAnswer": "star",
+          "heCorrectAnswer": "כוכב",
+          "estimatedDurationSeconds": 30
+        }
+      ]
+    }
+  ]
+}
