@@ -82,6 +82,17 @@ namespace LinguaStars.Client.Core
             target.OnShow(context);
         }
 
+        public bool TryNavigate(ScreenId screenId, object context, bool clearStack = false)
+        {
+            if (!registry.ContainsKey(screenId))
+            {
+                return false;
+            }
+
+            NavigateTo(screenId, context, clearStack);
+            return true;
+        }
+
         public void Back()
         {
             if (stack.Count <= 1)

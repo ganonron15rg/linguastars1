@@ -66,6 +66,75 @@ namespace LinguaStars.Client.Data
             EnqueueSync("progress_update", JsonUtility.ToJson(State.progress));
         }
 
+        public ItemMastery UpdateItemMastery(string itemId, float accuracy, bool success, float durationSeconds)
+        {
+            if (string.IsNullOrEmpty(itemId))
+            {
+                return null;
+            }
+
+            ItemMastery mastery = State.progress.itemMastery.FirstOrDefault(entry => entry.itemId == itemId);
+            if (mastery == null)
+            {
+                mastery = new ItemMastery { itemId = itemId };
+                State.progress.itemMastery.Add(mastery);
+            }
+
+            mastery.totalAttempts += 1;
+            if (success)
+            {
+                mastery.correctAttempts += 1;
+                mastery.consecutiveWrong = 0;
+            }
+            else
+            {
+                mastery.consecutiveWrong += 1;
+            }
+
+            float delta = success ? Mathf.Lerp(6f, 14f, accuracy) : -12f;
+            if (durationSeconds > 60f)
+            {
+                delta -= 2f;
+            }
+
+            mastery.masteryPercent = Mathf.Clamp(mastery.masteryPercent + delta, 0f, 100f);
+            mastery.lastUpdatedUnix = DateTimeOffset.UtcNow.ToUnixTimeSeconds();
+
+            UpdateReviewPool(itemId, mastery);
+
+            Save();
+            EnqueueSync("item_mastery_update", JsonUtility.ToJson(mastery));
+            return mastery;
+        }
+
+        private void UpdateReviewPool(string itemId, ItemMastery mastery)
+        {
+            ReviewEntry entry = State.progress.reviewPool.FirstOrDefault(item => item.itemId == itemId);
+            bool needsReview = mastery.masteryPercent < 60f || mastery.consecutiveWrong >= 3;
+
+            if (needsReview)
+            {
+                if (entry == null)
+                {
+                    entry = new ReviewEntry
+                    {
+                        itemId = itemId,
+                        reason = mastery.consecutiveWrong >= 3 ? "streak_wrong" : "low_mastery",
+                        addedAtUnix = DateTimeOffset.UtcNow.ToUnixTimeSeconds()
+                    };
+                    State.progress.reviewPool.Add(entry);
+                }
+                else
+                {
+                    entry.reason = mastery.consecutiveWrong >= 3 ? "streak_wrong" : "low_mastery";
+                }
+            }
+            else if (entry != null)
+            {
+                State.progress.reviewPool.RemoveAll(item => item.itemId == itemId);
+            }
+        }
+
         public void AddCoins(int amount, string reason)
         {
             if (amount <= 0)

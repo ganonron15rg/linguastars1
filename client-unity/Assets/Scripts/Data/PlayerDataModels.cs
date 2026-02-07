@@ -25,12 +25,33 @@ namespace LinguaStars.Client.Data
     }
 
     [Serializable]
+    public class ItemMastery
+    {
+        public string itemId;
+        public float masteryPercent;
+        public int consecutiveWrong;
+        public int totalAttempts;
+        public int correctAttempts;
+        public long lastUpdatedUnix;
+    }
+
+    [Serializable]
+    public class ReviewEntry
+    {
+        public string itemId;
+        public string reason;
+        public long addedAtUnix;
+    }
+
+    [Serializable]
     public class ProgressState
     {
         public int currentWorld = 1;
         public int currentStage = 1;
         public string lastLevelId;
         public List<LevelMastery> mastery = new List<LevelMastery>();
+        public List<ItemMastery> itemMastery = new List<ItemMastery>();
+        public List<ReviewEntry> reviewPool = new List<ReviewEntry>();
     }
 
     [Serializable]
