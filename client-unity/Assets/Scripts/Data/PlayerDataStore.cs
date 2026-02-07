@@ -201,6 +201,44 @@ namespace LinguaStars.Client.Data
             EnqueueSync("progress_reset", "{}" );
         }
 
+        public void RecordSession(SessionRecord record)
+        {
+            if (record == null)
+            {
+                return;
+            }
+
+            if (string.IsNullOrEmpty(record.sessionId))
+            {
+                record.sessionId = Guid.NewGuid().ToString("N");
+            }
+
+            State.sessions.Add(record);
+            Save();
+            EnqueueSync("session_record", JsonUtility.ToJson(record));
+        }
+
+        public void RemoveSessionRecord(string sessionId)
+        {
+            if (string.IsNullOrEmpty(sessionId))
+            {
+                return;
+            }
+
+            State.sessions.RemoveAll(session => session.sessionId == sessionId);
+            Save();
+        }
+
+        public System.Collections.Generic.List<SyncAction> GetPendingSyncActions(int maxCount)
+        {
+            if (maxCount <= 0)
+            {
+                return new System.Collections.Generic.List<SyncAction>();
+            }
+
+            return State.syncQueue.pendingActions.Take(maxCount).ToList();
+        }
+
         public SyncAction PeekNextSyncAction()
         {
             return State.syncQueue.pendingActions.Count > 0 ? State.syncQueue.pendingActions[0] : null;
@@ -251,6 +289,7 @@ namespace LinguaStars.Client.Data
                     inventory = new System.Collections.Generic.List<InventoryItem>(),
                     equippedItems = new System.Collections.Generic.List<string>()
                 },
+                sessions = new System.Collections.Generic.List<SessionRecord>(),
                 syncQueue = new SyncQueueState()
             };
         }

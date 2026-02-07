@@ -70,6 +70,17 @@ namespace LinguaStars.Client.Data
     }
 
     [Serializable]
+    public class SessionRecord
+    {
+        public string sessionId;
+        public string levelId;
+        public long dateUnix;
+        public int durationSeconds;
+        public int successRate;
+        public int activitiesDone;
+    }
+
+    [Serializable]
     public class SyncAction
     {
         public string actionId;
@@ -90,6 +101,7 @@ namespace LinguaStars.Client.Data
         public ChildProfile profile = new ChildProfile();
         public ProgressState progress = new ProgressState();
         public EconomyState economy = new EconomyState();
+        public List<SessionRecord> sessions = new List<SessionRecord>();
         public SyncQueueState syncQueue = new SyncQueueState();
     }
 }

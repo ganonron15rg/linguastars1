@@ -4,9 +4,9 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 
 from app.db import get_db
-from app.deps import get_current_user
+from app.deps import SyncPrincipal, get_sync_principal
 from app.models import Child, EconomyTransaction, Inventory, Progress, Session as StudySession
-from app.models import SyncQueue, User
+from app.models import SyncQueue
 from app.schemas import SyncUploadRequest, SyncUploadResponse
 
 router = APIRouter(prefix="/sync", tags=["sync"])
@@ -15,13 +15,15 @@ router = APIRouter(prefix="/sync", tags=["sync"])
 @router.post("/upload", response_model=SyncUploadResponse)
 def sync_upload(
     payload: SyncUploadRequest,
-    user: User = Depends(get_current_user),
+    principal: SyncPrincipal = Depends(get_sync_principal),
     db: Session = Depends(get_db),
 ) -> SyncUploadResponse:
     child = db.query(Child).filter(Child.id == payload.child_id).first()
     if not child:
         raise HTTPException(status_code=404, detail="Child not found")
-    if user.role == "parent" and child.parent_id != user.id:
+    if principal.role == "child" and principal.child and principal.child.id != child.id:
+        raise HTTPException(status_code=403, detail="Forbidden")
+    if principal.role == "parent" and principal.user and child.parent_id != principal.user.id:
         raise HTTPException(status_code=403, detail="Forbidden")
 
     existing = db.query(SyncQueue).filter(SyncQueue.idempotency_key == payload.idempotency_key).first()
