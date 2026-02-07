@@ -1,1 +1,0 @@
-LinguaStars v1
