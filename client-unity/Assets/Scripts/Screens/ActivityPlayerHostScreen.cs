@@ -1,3 +1,4 @@
+using System;
 using LinguaStars.Client.Activities;
 using LinguaStars.Client.Core;
 using LinguaStars.Client.Data;
@@ -64,6 +65,14 @@ namespace LinguaStars.Client.Screens
             {
                 PlayerDataStore.Instance.UpdateProgress(1, 1, level.levelId, summary.StarsEarned, summary.MasteryPercent, true);
                 PlayerDataStore.Instance.AddCoins(summary.CoinsEarned, "level_complete");
+                PlayerDataStore.Instance.RecordSession(new SessionRecord
+                {
+                    levelId = level.levelId,
+                    dateUnix = DateTimeOffset.UtcNow.ToUnixTimeSeconds(),
+                    durationSeconds = Mathf.RoundToInt(summary.AverageDurationSeconds * Mathf.Max(1, summary.ActivitiesCompleted + summary.ActivitiesFailed)),
+                    successRate = Mathf.RoundToInt(summary.AverageAccuracy * 100f),
+                    activitiesDone = summary.ActivitiesCompleted + summary.ActivitiesFailed
+                });
             }
 
             RewardMomentContext rewardContext = new RewardMomentContext

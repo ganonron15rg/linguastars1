@@ -28,6 +28,12 @@ class UserResponse(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 
 
+class ChildTokenResponse(BaseModel):
+    child_id: int
+    access_token: str
+    token_type: str = "bearer"
+
+
 class ChildCreate(BaseModel):
     name: str
     age: int = Field(ge=3, le=18)

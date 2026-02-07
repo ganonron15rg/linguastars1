@@ -2,6 +2,7 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy import func
 from sqlalchemy.orm import Session
 
+from app.auth import create_child_token
 from app.db import get_db
 from app.deps import require_role
 from app.models import Child, EconomyTransaction, Inventory, Progress, Session, User
@@ -9,6 +10,8 @@ from app.schemas import (
     ChildCreate,
     ChildResponse,
     ChildSummaryResponse,
+    ChildTokenResponse,
+    EconomyTransactionResponse,
     ProgressResponse,
     SessionResponse,
 )
@@ -38,6 +41,24 @@ def create_child(
     db.add(inventory)
     db.commit()
     return child
+
+
+@router.post("/child/{child_id}/token", response_model=ChildTokenResponse)
+def create_child_token_for_child(
+    child_id: int,
+    parent: User = Depends(require_role("parent")),
+    db: Session = Depends(get_db),
+) -> ChildTokenResponse:
+    child = (
+        db.query(Child)
+        .filter(Child.id == child_id, Child.parent_id == parent.id)
+        .first()
+    )
+    if not child:
+        raise HTTPException(status_code=404, detail="Child not found")
+
+    token = create_child_token(child.id)
+    return ChildTokenResponse(child_id=child.id, access_token=token)
 
 
 @router.get("/child/{child_id}/summary", response_model=ChildSummaryResponse)
@@ -101,3 +122,24 @@ def child_sessions(
     if not child:
         raise HTTPException(status_code=404, detail="Child not found")
     return db.query(Session).filter(Session.child_id == child.id).all()
+
+
+@router.get("/child/{child_id}/transactions", response_model=list[EconomyTransactionResponse])
+def child_transactions(
+    child_id: int,
+    parent: User = Depends(require_role("parent")),
+    db: Session = Depends(get_db),
+) -> list[EconomyTransactionResponse]:
+    child = (
+        db.query(Child)
+        .filter(Child.id == child_id, Child.parent_id == parent.id)
+        .first()
+    )
+    if not child:
+        raise HTTPException(status_code=404, detail="Child not found")
+    return (
+        db.query(EconomyTransaction)
+        .filter(EconomyTransaction.child_id == child.id)
+        .order_by(EconomyTransaction.timestamp.desc())
+        .all()
+    )
